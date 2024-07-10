@@ -13,7 +13,7 @@ class ClosePopUp :
         self.driver = driver
         self.wait = WebDriverWait(self.driver, 10)
         
-    def close_pop_up(self):
+    def close_pop_up(self): 
         try:
             print(f"Clicking button: {By.CSS_SELECTOR} {'body > div.sc-dIouRR.kMwfeN.sc-kgflAQ.jQCwPs.MuiDialog-root.MuiModal-root > div.sc-fLlhyt.jDOnlw.MuiDialog-container.MuiDialog-scrollPaper > div > div > div.sc-lbOyJj.iOFAkR > div:nth-child(1) > button > svg > path'}")
             logger.log("access-openclassrooms", f"Clicking button: {By.CSS_SELECTOR} {'body > div.sc-dIouRR.kMwfeN.sc-kgflAQ.jQCwPs.MuiDialog-root.MuiModal-root > div.sc-fLlhyt.jDOnlw.MuiDialog-container.MuiDialog-scrollPaper > div > div > div.sc-lbOyJj.iOFAkR > div:nth-child(1) > button > svg > path'}")
