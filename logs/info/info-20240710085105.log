@@ -1,0 +1,6 @@
+2024-07-10T08:51:57.102121 - Début de la procédure de connexion
+2024-07-10T08:51:57.135696 - Cliquer sur l'icône de connexion
+2024-07-10T08:51:57.145124 - Tentative de clic sur l'élément: //*[name()='svg' and @data-testid='ExpandMoreIcon']
+2024-07-10T08:51:57.409725 - Clic réussi sur l'élément: //*[name()='svg' and @data-testid='ExpandMoreIcon']
+2024-07-10T08:52:02.418937 - Cliquer sur le bouton 'Se connecter'
+2024-07-10T08:52:02.425062 - Tentative de clic sur l'élément: //*[@id='main-header-menu']/a[2]/div/span

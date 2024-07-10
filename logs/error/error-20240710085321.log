@@ -1,0 +1,44 @@
+2024-07-10T08:55:03.013185 - Erreur lors du clic sur l'élément: div[data-testid='left-icon'], Erreur: Message: 
+Stacktrace:
+#0 0x55eb681b069a <unknown>
+#1 0x55eb67e930dc <unknown>
+#2 0x55eb67edf931 <unknown>
+#3 0x55eb67edfa21 <unknown>
+#4 0x55eb67f24234 <unknown>
+#5 0x55eb67f0289d <unknown>
+#6 0x55eb67f215c3 <unknown>
+#7 0x55eb67f02613 <unknown>
+#8 0x55eb67ed24f7 <unknown>
+#9 0x55eb67ed2e4e <unknown>
+#10 0x55eb6817686b <unknown>
+#11 0x55eb6817a911 <unknown>
+#12 0x55eb6816235e <unknown>
+#13 0x55eb6817b472 <unknown>
+#14 0x55eb68146cbf <unknown>
+#15 0x55eb681a0098 <unknown>
+#16 0x55eb681a0270 <unknown>
+#17 0x55eb681af7cc <unknown>
+#18 0x7ff5f43a9ac3 <unknown>
+
+2024-07-10T08:55:03.029311 - Erreur lors de la déconnexion: Message: 
+Stacktrace:
+#0 0x55eb681b069a <unknown>
+#1 0x55eb67e930dc <unknown>
+#2 0x55eb67edf931 <unknown>
+#3 0x55eb67edfa21 <unknown>
+#4 0x55eb67f24234 <unknown>
+#5 0x55eb67f0289d <unknown>
+#6 0x55eb67f215c3 <unknown>
+#7 0x55eb67f02613 <unknown>
+#8 0x55eb67ed24f7 <unknown>
+#9 0x55eb67ed2e4e <unknown>
+#10 0x55eb6817686b <unknown>
+#11 0x55eb6817a911 <unknown>
+#12 0x55eb6816235e <unknown>
+#13 0x55eb6817b472 <unknown>
+#14 0x55eb68146cbf <unknown>
+#15 0x55eb681a0098 <unknown>
+#16 0x55eb681a0270 <unknown>
+#17 0x55eb681af7cc <unknown>
+#18 0x7ff5f43a9ac3 <unknown>
+

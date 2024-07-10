@@ -1,0 +1,86 @@
+2024-07-10T10:33:22.405120 - Erreur de connexion: HTTPConnectionPool(host='selenium', port=4444): Max retries exceeded with url: /wd/hub/status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f26e6595cd0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2024-07-10T10:33:22.429072 - En attente de Selenium Grid...
+2024-07-10T10:33:23.448603 - Erreur de connexion: HTTPConnectionPool(host='selenium', port=4444): Max retries exceeded with url: /wd/hub/status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f26e6529790>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2024-07-10T10:33:23.463264 - En attente de Selenium Grid...
+2024-07-10T10:33:24.478963 - Erreur de connexion: HTTPConnectionPool(host='selenium', port=4444): Max retries exceeded with url: /wd/hub/status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f26e6529190>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2024-07-10T10:33:24.552017 - En attente de Selenium Grid...
+2024-07-10T10:33:25.575865 - Erreur de connexion: HTTPConnectionPool(host='selenium', port=4444): Max retries exceeded with url: /wd/hub/status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f26e65951c0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2024-07-10T10:33:25.587527 - En attente de Selenium Grid...
+2024-07-10T10:33:26.624297 - Selenium Grid est prêt.
+2024-07-10T10:34:24.399102 - Connexion au Selenium Grid réussie.
+2024-07-10T10:34:25.464437 - Félicitations ! L'accès à l'URL a été réussi.
+2024-07-10T10:34:28.190266 - Les cookies ont bien été acceptés
+2024-07-10T10:34:28.214128 - Début de la procédure de connexion
+2024-07-10T10:34:28.234016 - Cliquer sur l'icône de connexion
+2024-07-10T10:34:28.264982 - Tentative de clic sur l'élément: //*[name()='svg' and @data-testid='ExpandMoreIcon']
+2024-07-10T10:34:29.096735 - Clic réussi sur l'élément: //*[name()='svg' and @data-testid='ExpandMoreIcon']
+2024-07-10T10:34:34.109984 - Cliquer sur le bouton 'Se connecter'
+2024-07-10T10:34:34.130093 - Tentative de clic sur l'élément: //*[@id='main-header-menu']/a[2]/div/span
+2024-07-10T10:34:34.462729 - Clic réussi sur l'élément: //*[@id='main-header-menu']/a[2]/div/span
+2024-07-10T10:34:39.477581 - Saisir l'adresse email
+2024-07-10T10:34:39.489197 - Tentative d'envoi de touches à l'élément: field-userEmail-1
+2024-07-10T10:34:39.862691 - Envoi de touches réussi à l'élément: field-userEmail-1
+2024-07-10T10:34:39.883140 - Tentative d'envoi de touches à l'élément: field-userEmail-1
+2024-07-10T10:34:40.082411 - Envoi de touches réussi à l'élément: field-userEmail-1
+2024-07-10T10:34:42.093616 - Cliquer sur le bouton 'Continuer'
+2024-07-10T10:34:42.113033 - Saisir le mot de passe
+2024-07-10T10:34:42.130628 - Tentative d'envoi de touches à l'élément: _password
+2024-07-10T10:34:42.399091 - Envoi de touches réussi à l'élément: _password
+2024-07-10T10:34:42.411712 - Tentative d'envoi de touches à l'élément: _password
+2024-07-10T10:34:42.520432 - Envoi de touches réussi à l'élément: _password
+2024-07-10T10:34:42.531735 - Connexion réussie
+2024-07-10T10:34:42.542142 - Erreur lors du clique sur le bouton de recherche : 'OpenClassRoomsActions' object has no attribute 'click_element'
+2024-07-10T10:34:57.708666 - Erreur la recherche a échoué : Message: 
+Stacktrace:
+#0 0x563d5d32069a <unknown>
+#1 0x563d5d0030dc <unknown>
+#2 0x563d5d04f931 <unknown>
+#3 0x563d5d04fa21 <unknown>
+#4 0x563d5d094234 <unknown>
+#5 0x563d5d07289d <unknown>
+#6 0x563d5d0915c3 <unknown>
+#7 0x563d5d072613 <unknown>
+#8 0x563d5d0424f7 <unknown>
+#9 0x563d5d042e4e <unknown>
+#10 0x563d5d2e686b <unknown>
+#11 0x563d5d2ea911 <unknown>
+#12 0x563d5d2d235e <unknown>
+#13 0x563d5d2eb472 <unknown>
+#14 0x563d5d2b6cbf <unknown>
+#15 0x563d5d310098 <unknown>
+#16 0x563d5d310270 <unknown>
+#17 0x563d5d31f7cc <unknown>
+#18 0x7fbf34befac3 <unknown>
+
+2024-07-10T10:35:07.806171 - Erreur lors de la selectionnion du 3 ème élément de la liste de recherche : Message: 
+Stacktrace:
+#0 0x563d5d32069a <unknown>
+#1 0x563d5d0030dc <unknown>
+#2 0x563d5d04f931 <unknown>
+#3 0x563d5d04fa21 <unknown>
+#4 0x563d5d094234 <unknown>
+#5 0x563d5d07289d <unknown>
+#6 0x563d5d0915c3 <unknown>
+#7 0x563d5d072613 <unknown>
+#8 0x563d5d0424f7 <unknown>
+#9 0x563d5d042e4e <unknown>
+#10 0x563d5d2e686b <unknown>
+#11 0x563d5d2ea911 <unknown>
+#12 0x563d5d2d235e <unknown>
+#13 0x563d5d2eb472 <unknown>
+#14 0x563d5d2b6cbf <unknown>
+#15 0x563d5d310098 <unknown>
+#16 0x563d5d310270 <unknown>
+#17 0x563d5d31f7cc <unknown>
+#18 0x7fbf34befac3 <unknown>
+
+2024-07-10T10:35:07.820223 - Cliquer sur l'icône de compte
+2024-07-10T10:35:07.832154 - Tentative de clic sur l'élément: div[data-testid='avatar-root']
+2024-07-10T10:35:08.904553 - Clic réussi sur l'élément: div[data-testid='avatar-root']
+2024-07-10T10:35:08.916184 - Etape reussie
+2024-07-10T10:35:10.934989 - Cliquer sur le bouton de déconnexion
+2024-07-10T10:35:10.946418 - Tentative de clic sur l'élément: div[data-testid='avatar-root']
+2024-07-10T10:35:13.367627 - Clic réussi sur l'élément: div[data-testid='avatar-root']
+2024-07-10T10:35:13.390930 - Déconnexion réussie
+2024-07-10T10:35:15.426000 - Fermeture du WebDriver.
+2024-07-10T10:35:15.437180 - Fermeture du WebDriver.

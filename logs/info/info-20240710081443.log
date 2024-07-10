@@ -1,0 +1,24 @@
+2024-07-10T08:14:52.157730 - Début de la procédure de connexion
+2024-07-10T08:14:52.184329 - Cliquer sur l'icône de connexion
+2024-07-10T08:14:52.202357 - Tentative de clic sur l'élément: //*[name()='svg' and @data-testid='ExpandMoreIcon']
+2024-07-10T08:14:53.241179 - Clic réussi sur l'élément: //*[name()='svg' and @data-testid='ExpandMoreIcon']
+2024-07-10T08:14:58.252678 - Cliquer sur le bouton 'Se connecter'
+2024-07-10T08:14:58.260769 - Tentative de clic sur l'élément: //*[@id='main-header-menu']/a[2]/div/span
+2024-07-10T08:14:58.488622 - Clic réussi sur l'élément: //*[@id='main-header-menu']/a[2]/div/span
+2024-07-10T08:15:03.502664 - Saisir l'adresse email
+2024-07-10T08:15:03.509464 - Tentative d'envoi de touches à l'élément: field-userEmail-1
+2024-07-10T08:15:03.755859 - Envoi de touches réussi à l'élément: field-userEmail-1
+2024-07-10T08:15:03.764642 - Tentative d'envoi de touches à l'élément: field-userEmail-1
+2024-07-10T08:15:03.917876 - Envoi de touches réussi à l'élément: field-userEmail-1
+2024-07-10T08:15:05.938661 - Cliquer sur le bouton 'Continuer'
+2024-07-10T08:15:05.946836 - Saisir le mot de passe
+2024-07-10T08:15:05.953730 - Tentative d'envoi de touches à l'élément: _password
+2024-07-10T08:15:06.113170 - Envoi de touches réussi à l'élément: _password
+2024-07-10T08:15:06.120399 - Tentative d'envoi de touches à l'élément: _password
+2024-07-10T08:15:06.205436 - Envoi de touches réussi à l'élément: _password
+2024-07-10T08:15:06.214866 - Connexion réussie
+2024-07-10T08:15:06.223892 - Cliquer sur l'icône de compte
+2024-07-10T08:15:06.233366 - Tentative de clic sur l'élément: div[data-testid='avatar-root']
+2024-07-10T08:15:11.166071 - Clic réussi sur l'élément: div[data-testid='avatar-root']
+2024-07-10T08:15:13.195545 - Cliquer sur le bouton de déconnexion
+2024-07-10T08:15:13.226580 - Tentative de clic sur l'élément: span.sc-iqcoie.dzyXUh .MuiTypography-root.MuiTypography-body.dom-services-2-dom-services106

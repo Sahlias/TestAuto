@@ -1,0 +1,44 @@
+2024-07-10T08:04:11.203307 - Erreur lors du clic sur l'élément: //*[contains(text(),'Déconnexion')], Erreur: Message: 
+Stacktrace:
+#0 0x5607f451069a <unknown>
+#1 0x5607f41f30dc <unknown>
+#2 0x5607f423f931 <unknown>
+#3 0x5607f423fa21 <unknown>
+#4 0x5607f4284234 <unknown>
+#5 0x5607f426289d <unknown>
+#6 0x5607f42815c3 <unknown>
+#7 0x5607f4262613 <unknown>
+#8 0x5607f42324f7 <unknown>
+#9 0x5607f4232e4e <unknown>
+#10 0x5607f44d686b <unknown>
+#11 0x5607f44da911 <unknown>
+#12 0x5607f44c235e <unknown>
+#13 0x5607f44db472 <unknown>
+#14 0x5607f44a6cbf <unknown>
+#15 0x5607f4500098 <unknown>
+#16 0x5607f4500270 <unknown>
+#17 0x5607f450f7cc <unknown>
+#18 0x7fcf8d394ac3 <unknown>
+
+2024-07-10T08:04:11.247699 - Erreur lors de la déconnexion: Message: 
+Stacktrace:
+#0 0x5607f451069a <unknown>
+#1 0x5607f41f30dc <unknown>
+#2 0x5607f423f931 <unknown>
+#3 0x5607f423fa21 <unknown>
+#4 0x5607f4284234 <unknown>
+#5 0x5607f426289d <unknown>
+#6 0x5607f42815c3 <unknown>
+#7 0x5607f4262613 <unknown>
+#8 0x5607f42324f7 <unknown>
+#9 0x5607f4232e4e <unknown>
+#10 0x5607f44d686b <unknown>
+#11 0x5607f44da911 <unknown>
+#12 0x5607f44c235e <unknown>
+#13 0x5607f44db472 <unknown>
+#14 0x5607f44a6cbf <unknown>
+#15 0x5607f4500098 <unknown>
+#16 0x5607f4500270 <unknown>
+#17 0x5607f450f7cc <unknown>
+#18 0x7fcf8d394ac3 <unknown>
+

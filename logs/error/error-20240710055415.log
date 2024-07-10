@@ -1,0 +1,44 @@
+2024-07-10T05:55:37.695750 - Erreur lors du clic sur l'élément: //*[@id='continue-button'], Erreur: Message: 
+Stacktrace:
+#0 0x55b2154f069a <unknown>
+#1 0x55b2151d30dc <unknown>
+#2 0x55b21521f931 <unknown>
+#3 0x55b21521fa21 <unknown>
+#4 0x55b215264234 <unknown>
+#5 0x55b21524289d <unknown>
+#6 0x55b2152615c3 <unknown>
+#7 0x55b215242613 <unknown>
+#8 0x55b2152124f7 <unknown>
+#9 0x55b215212e4e <unknown>
+#10 0x55b2154b686b <unknown>
+#11 0x55b2154ba911 <unknown>
+#12 0x55b2154a235e <unknown>
+#13 0x55b2154bb472 <unknown>
+#14 0x55b215486cbf <unknown>
+#15 0x55b2154e0098 <unknown>
+#16 0x55b2154e0270 <unknown>
+#17 0x55b2154ef7cc <unknown>
+#18 0x7f057dd8bac3 <unknown>
+
+2024-07-10T05:55:37.726939 - Erreur lors de la connexion: Message: 
+Stacktrace:
+#0 0x55b2154f069a <unknown>
+#1 0x55b2151d30dc <unknown>
+#2 0x55b21521f931 <unknown>
+#3 0x55b21521fa21 <unknown>
+#4 0x55b215264234 <unknown>
+#5 0x55b21524289d <unknown>
+#6 0x55b2152615c3 <unknown>
+#7 0x55b215242613 <unknown>
+#8 0x55b2152124f7 <unknown>
+#9 0x55b215212e4e <unknown>
+#10 0x55b2154b686b <unknown>
+#11 0x55b2154ba911 <unknown>
+#12 0x55b2154a235e <unknown>
+#13 0x55b2154bb472 <unknown>
+#14 0x55b215486cbf <unknown>
+#15 0x55b2154e0098 <unknown>
+#16 0x55b2154e0270 <unknown>
+#17 0x55b2154ef7cc <unknown>
+#18 0x7f057dd8bac3 <unknown>
+

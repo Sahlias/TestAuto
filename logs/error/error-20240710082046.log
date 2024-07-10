@@ -1,0 +1,44 @@
+2024-07-10T08:22:21.865257 - Erreur lors de l'envoi de touches à l'élément: _password, Erreur: Message: 
+Stacktrace:
+#0 0x55f18887b69a <unknown>
+#1 0x55f18855e0dc <unknown>
+#2 0x55f1885aa931 <unknown>
+#3 0x55f1885aaa21 <unknown>
+#4 0x55f1885ef234 <unknown>
+#5 0x55f1885cd89d <unknown>
+#6 0x55f1885ec5c3 <unknown>
+#7 0x55f1885cd613 <unknown>
+#8 0x55f18859d4f7 <unknown>
+#9 0x55f18859de4e <unknown>
+#10 0x55f18884186b <unknown>
+#11 0x55f188845911 <unknown>
+#12 0x55f18882d35e <unknown>
+#13 0x55f188846472 <unknown>
+#14 0x55f188811cbf <unknown>
+#15 0x55f18886b098 <unknown>
+#16 0x55f18886b270 <unknown>
+#17 0x55f18887a7cc <unknown>
+#18 0x7f5762ee5ac3 <unknown>
+
+2024-07-10T08:22:21.886083 - Erreur lors de la connexion: Message: 
+Stacktrace:
+#0 0x55f18887b69a <unknown>
+#1 0x55f18855e0dc <unknown>
+#2 0x55f1885aa931 <unknown>
+#3 0x55f1885aaa21 <unknown>
+#4 0x55f1885ef234 <unknown>
+#5 0x55f1885cd89d <unknown>
+#6 0x55f1885ec5c3 <unknown>
+#7 0x55f1885cd613 <unknown>
+#8 0x55f18859d4f7 <unknown>
+#9 0x55f18859de4e <unknown>
+#10 0x55f18884186b <unknown>
+#11 0x55f188845911 <unknown>
+#12 0x55f18882d35e <unknown>
+#13 0x55f188846472 <unknown>
+#14 0x55f188811cbf <unknown>
+#15 0x55f18886b098 <unknown>
+#16 0x55f18886b270 <unknown>
+#17 0x55f18887a7cc <unknown>
+#18 0x7f5762ee5ac3 <unknown>
+

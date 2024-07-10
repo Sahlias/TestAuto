@@ -1,0 +1,57 @@
+2024-07-10T05:22:20.118946 - Erreur de connexion: HTTPConnectionPool(host='selenium', port=4444): Max retries exceeded with url: /wd/hub/status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4ce2af1b80>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2024-07-10T05:22:20.146506 - En attente de Selenium Grid...
+2024-07-10T05:22:21.169224 - Erreur de connexion: HTTPConnectionPool(host='selenium', port=4444): Max retries exceeded with url: /wd/hub/status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4ce2a91610>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2024-07-10T05:22:21.181063 - En attente de Selenium Grid...
+2024-07-10T05:22:22.196734 - Erreur de connexion: HTTPConnectionPool(host='selenium', port=4444): Max retries exceeded with url: /wd/hub/status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4ce2ae4fd0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2024-07-10T05:22:22.213036 - En attente de Selenium Grid...
+2024-07-10T05:22:23.271663 - Selenium Grid est prêt.
+2024-07-10T05:22:23.924438 - Connexion au Selenium Grid réussie.
+2024-07-10T05:22:24.915764 - Félicitations ! L'accès à l'URL a été réussi.
+2024-07-10T05:22:27.981278 - Les cookies ont bien été acceptés
+2024-07-10T05:22:28.015270 - Début de la procédure de connexion
+2024-07-10T05:22:28.050938 - Cliquer sur l'icône de connexion
+2024-07-10T05:22:28.064016 - Tentative de clic sur l'élément: //*[@id='header']/div/div/div[5]/button/svg/path
+2024-07-10T05:22:48.319735 - Erreur lors du clic sur l'élément: //*[@id='header']/div/div/div[5]/button/svg/path, Erreur: Message: 
+Stacktrace:
+#0 0x56378f5d069a <unknown>
+#1 0x56378f2b30dc <unknown>
+#2 0x56378f2ff931 <unknown>
+#3 0x56378f2ffa21 <unknown>
+#4 0x56378f344234 <unknown>
+#5 0x56378f32289d <unknown>
+#6 0x56378f3415c3 <unknown>
+#7 0x56378f322613 <unknown>
+#8 0x56378f2f24f7 <unknown>
+#9 0x56378f2f2e4e <unknown>
+#10 0x56378f59686b <unknown>
+#11 0x56378f59a911 <unknown>
+#12 0x56378f58235e <unknown>
+#13 0x56378f59b472 <unknown>
+#14 0x56378f566cbf <unknown>
+#15 0x56378f5c0098 <unknown>
+#16 0x56378f5c0270 <unknown>
+#17 0x56378f5cf7cc <unknown>
+#18 0x7f2cfa7ceac3 <unknown>
+
+2024-07-10T05:22:48.343249 - Erreur lors de la connexion: Message: 
+Stacktrace:
+#0 0x56378f5d069a <unknown>
+#1 0x56378f2b30dc <unknown>
+#2 0x56378f2ff931 <unknown>
+#3 0x56378f2ffa21 <unknown>
+#4 0x56378f344234 <unknown>
+#5 0x56378f32289d <unknown>
+#6 0x56378f3415c3 <unknown>
+#7 0x56378f322613 <unknown>
+#8 0x56378f2f24f7 <unknown>
+#9 0x56378f2f2e4e <unknown>
+#10 0x56378f59686b <unknown>
+#11 0x56378f59a911 <unknown>
+#12 0x56378f58235e <unknown>
+#13 0x56378f59b472 <unknown>
+#14 0x56378f566cbf <unknown>
+#15 0x56378f5c0098 <unknown>
+#16 0x56378f5c0270 <unknown>
+#17 0x56378f5cf7cc <unknown>
+#18 0x7f2cfa7ceac3 <unknown>
+

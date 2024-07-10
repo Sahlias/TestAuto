@@ -1,0 +1,33 @@
+2024-07-10T05:14:14.027192 - Erreur de connexion: HTTPConnectionPool(host='selenium', port=4444): Max retries exceeded with url: /wd/hub/status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f1132b80bb0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2024-07-10T05:14:14.049031 - En attente de Selenium Grid...
+2024-07-10T05:14:15.072271 - Erreur de connexion: HTTPConnectionPool(host='selenium', port=4444): Max retries exceeded with url: /wd/hub/status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f1132b1f640>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2024-07-10T05:14:15.092967 - En attente de Selenium Grid...
+2024-07-10T05:14:16.114641 - Erreur de connexion: HTTPConnectionPool(host='selenium', port=4444): Max retries exceeded with url: /wd/hub/status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f1132b28070>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2024-07-10T05:14:16.127029 - En attente de Selenium Grid...
+2024-07-10T05:14:17.295026 - Selenium Grid est prêt.
+2024-07-10T05:14:17.908032 - Connexion au Selenium Grid réussie.
+2024-07-10T05:14:18.946732 - Félicitations ! L'accès à l'URL a été réussi.
+2024-07-10T05:14:21.747356 - Les cookies ont bien été acceptés
+2024-07-10T05:14:21.767268 - Cliquer sur l'icône de connexion
+2024-07-10T05:14:31.968482 - Erreur lors de la connexion: Message: 
+Stacktrace:
+#0 0x55d13773d69a <unknown>
+#1 0x55d1374200dc <unknown>
+#2 0x55d13746c931 <unknown>
+#3 0x55d13746ca21 <unknown>
+#4 0x55d1374b1234 <unknown>
+#5 0x55d13748f89d <unknown>
+#6 0x55d1374ae5c3 <unknown>
+#7 0x55d13748f613 <unknown>
+#8 0x55d13745f4f7 <unknown>
+#9 0x55d13745fe4e <unknown>
+#10 0x55d13770386b <unknown>
+#11 0x55d137707911 <unknown>
+#12 0x55d1376ef35e <unknown>
+#13 0x55d137708472 <unknown>
+#14 0x55d1376d3cbf <unknown>
+#15 0x55d13772d098 <unknown>
+#16 0x55d13772d270 <unknown>
+#17 0x55d13773c7cc <unknown>
+#18 0x7f5dd21f4ac3 <unknown>
+

@@ -1,0 +1,71 @@
+2024-07-10T07:29:44.156964 - Erreur de connexion: HTTPConnectionPool(host='selenium', port=4444): Max retries exceeded with url: /wd/hub/status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fdc5790eb80>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2024-07-10T07:29:44.171090 - En attente de Selenium Grid...
+2024-07-10T07:29:45.187194 - Erreur de connexion: HTTPConnectionPool(host='selenium', port=4444): Max retries exceeded with url: /wd/hub/status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fdc578ad5e0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2024-07-10T07:29:45.208199 - En attente de Selenium Grid...
+2024-07-10T07:29:46.223708 - Erreur de connexion: HTTPConnectionPool(host='selenium', port=4444): Max retries exceeded with url: /wd/hub/status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fdc578fffd0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2024-07-10T07:29:46.237174 - En attente de Selenium Grid...
+2024-07-10T07:29:47.298298 - Erreur de connexion: HTTPConnectionPool(host='selenium', port=4444): Max retries exceeded with url: /wd/hub/status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fdc5790ea60>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2024-07-10T07:29:47.308636 - En attente de Selenium Grid...
+2024-07-10T07:29:48.351500 - Selenium Grid est prêt.
+2024-07-10T07:30:28.902268 - Connexion au Selenium Grid réussie.
+2024-07-10T07:30:30.557263 - Félicitations ! L'accès à l'URL a été réussi.
+2024-07-10T07:30:33.058483 - Les cookies ont bien été acceptés
+2024-07-10T07:30:33.081217 - Début de la procédure de connexion
+2024-07-10T07:30:33.114211 - Cliquer sur l'icône de connexion
+2024-07-10T07:30:33.133865 - Tentative de clic sur l'élément: //*[name()='svg' and @data-testid='ExpandMoreIcon']
+2024-07-10T07:30:38.028876 - Clic réussi sur l'élément: //*[name()='svg' and @data-testid='ExpandMoreIcon']
+2024-07-10T07:30:43.057975 - Cliquer sur le bouton 'Se connecter'
+2024-07-10T07:30:43.073137 - Tentative de clic sur l'élément: //*[@id='main-header-menu']/a[2]/div/span
+2024-07-10T07:30:43.528481 - Clic réussi sur l'élément: //*[@id='main-header-menu']/a[2]/div/span
+2024-07-10T07:30:48.559855 - Saisir l'adresse email
+2024-07-10T07:30:48.568536 - Tentative d'envoi de touches à l'élément: field-userEmail-1
+2024-07-10T07:30:48.751223 - Envoi de touches réussi à l'élément: field-userEmail-1
+2024-07-10T07:30:48.759879 - Tentative d'envoi de touches à l'élément: field-userEmail-1
+2024-07-10T07:30:48.869974 - Envoi de touches réussi à l'élément: field-userEmail-1
+2024-07-10T07:30:51.007926 - Cliquer sur le bouton 'Continuer'
+2024-07-10T07:30:51.019231 - Saisir le mot de passe
+2024-07-10T07:30:51.027935 - Tentative d'envoi de touches à l'élément: field-_password-18
+2024-07-10T07:31:11.411951 - Erreur lors de l'envoi de touches à l'élément: field-_password-18, Erreur: Message: 
+Stacktrace:
+#0 0x55846dd2b69a <unknown>
+#1 0x55846da0e0dc <unknown>
+#2 0x55846da5a931 <unknown>
+#3 0x55846da5aa21 <unknown>
+#4 0x55846da9f234 <unknown>
+#5 0x55846da7d89d <unknown>
+#6 0x55846da9c5c3 <unknown>
+#7 0x55846da7d613 <unknown>
+#8 0x55846da4d4f7 <unknown>
+#9 0x55846da4de4e <unknown>
+#10 0x55846dcf186b <unknown>
+#11 0x55846dcf5911 <unknown>
+#12 0x55846dcdd35e <unknown>
+#13 0x55846dcf6472 <unknown>
+#14 0x55846dcc1cbf <unknown>
+#15 0x55846dd1b098 <unknown>
+#16 0x55846dd1b270 <unknown>
+#17 0x55846dd2a7cc <unknown>
+#18 0x7f04f826aac3 <unknown>
+
+2024-07-10T07:31:11.464539 - Erreur lors de la connexion: Message: 
+Stacktrace:
+#0 0x55846dd2b69a <unknown>
+#1 0x55846da0e0dc <unknown>
+#2 0x55846da5a931 <unknown>
+#3 0x55846da5aa21 <unknown>
+#4 0x55846da9f234 <unknown>
+#5 0x55846da7d89d <unknown>
+#6 0x55846da9c5c3 <unknown>
+#7 0x55846da7d613 <unknown>
+#8 0x55846da4d4f7 <unknown>
+#9 0x55846da4de4e <unknown>
+#10 0x55846dcf186b <unknown>
+#11 0x55846dcf5911 <unknown>
+#12 0x55846dcdd35e <unknown>
+#13 0x55846dcf6472 <unknown>
+#14 0x55846dcc1cbf <unknown>
+#15 0x55846dd1b098 <unknown>
+#16 0x55846dd1b270 <unknown>
+#17 0x55846dd2a7cc <unknown>
+#18 0x7f04f826aac3 <unknown>
+

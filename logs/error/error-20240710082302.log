@@ -1,0 +1,44 @@
+2024-07-10T08:24:42.637896 - Erreur lors du clic sur l'élément: //*[@id="main-header-menu"]/div[2]/div[5]/a/span[1], Erreur: Message: 
+Stacktrace:
+#0 0x560c7697c69a <unknown>
+#1 0x560c7665f0dc <unknown>
+#2 0x560c766ab931 <unknown>
+#3 0x560c766aba21 <unknown>
+#4 0x560c766f0234 <unknown>
+#5 0x560c766ce89d <unknown>
+#6 0x560c766ed5c3 <unknown>
+#7 0x560c766ce613 <unknown>
+#8 0x560c7669e4f7 <unknown>
+#9 0x560c7669ee4e <unknown>
+#10 0x560c7694286b <unknown>
+#11 0x560c76946911 <unknown>
+#12 0x560c7692e35e <unknown>
+#13 0x560c76947472 <unknown>
+#14 0x560c76912cbf <unknown>
+#15 0x560c7696c098 <unknown>
+#16 0x560c7696c270 <unknown>
+#17 0x560c7697b7cc <unknown>
+#18 0x7fcf8ec1eac3 <unknown>
+
+2024-07-10T08:24:42.665942 - Erreur lors de la déconnexion: Message: 
+Stacktrace:
+#0 0x560c7697c69a <unknown>
+#1 0x560c7665f0dc <unknown>
+#2 0x560c766ab931 <unknown>
+#3 0x560c766aba21 <unknown>
+#4 0x560c766f0234 <unknown>
+#5 0x560c766ce89d <unknown>
+#6 0x560c766ed5c3 <unknown>
+#7 0x560c766ce613 <unknown>
+#8 0x560c7669e4f7 <unknown>
+#9 0x560c7669ee4e <unknown>
+#10 0x560c7694286b <unknown>
+#11 0x560c76946911 <unknown>
+#12 0x560c7692e35e <unknown>
+#13 0x560c76947472 <unknown>
+#14 0x560c76912cbf <unknown>
+#15 0x560c7696c098 <unknown>
+#16 0x560c7696c270 <unknown>
+#17 0x560c7697b7cc <unknown>
+#18 0x7fcf8ec1eac3 <unknown>
+

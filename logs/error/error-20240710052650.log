@@ -1,0 +1,44 @@
+2024-07-10T05:27:19.949900 - Erreur lors du clic sur l'élément: sc-iIPllB hLAfuo MuiSvgIcon-root MuiSvgIcon-fontSizeMedium, Erreur: Message: 
+Stacktrace:
+#0 0x555e6404b69a <unknown>
+#1 0x555e63d2e0dc <unknown>
+#2 0x555e63d7a931 <unknown>
+#3 0x555e63d7aa21 <unknown>
+#4 0x555e63dbf234 <unknown>
+#5 0x555e63d9d89d <unknown>
+#6 0x555e63dbc5c3 <unknown>
+#7 0x555e63d9d613 <unknown>
+#8 0x555e63d6d4f7 <unknown>
+#9 0x555e63d6de4e <unknown>
+#10 0x555e6401186b <unknown>
+#11 0x555e64015911 <unknown>
+#12 0x555e63ffd35e <unknown>
+#13 0x555e64016472 <unknown>
+#14 0x555e63fe1cbf <unknown>
+#15 0x555e6403b098 <unknown>
+#16 0x555e6403b270 <unknown>
+#17 0x555e6404a7cc <unknown>
+#18 0x7f719fcd9ac3 <unknown>
+
+2024-07-10T05:27:20.001305 - Erreur lors de la connexion: Message: 
+Stacktrace:
+#0 0x555e6404b69a <unknown>
+#1 0x555e63d2e0dc <unknown>
+#2 0x555e63d7a931 <unknown>
+#3 0x555e63d7aa21 <unknown>
+#4 0x555e63dbf234 <unknown>
+#5 0x555e63d9d89d <unknown>
+#6 0x555e63dbc5c3 <unknown>
+#7 0x555e63d9d613 <unknown>
+#8 0x555e63d6d4f7 <unknown>
+#9 0x555e63d6de4e <unknown>
+#10 0x555e6401186b <unknown>
+#11 0x555e64015911 <unknown>
+#12 0x555e63ffd35e <unknown>
+#13 0x555e64016472 <unknown>
+#14 0x555e63fe1cbf <unknown>
+#15 0x555e6403b098 <unknown>
+#16 0x555e6403b270 <unknown>
+#17 0x555e6404a7cc <unknown>
+#18 0x7f719fcd9ac3 <unknown>
+

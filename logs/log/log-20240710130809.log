@@ -1,0 +1,97 @@
+2024-07-10T13:08:09.475856 - Erreur de connexion: HTTPConnectionPool(host='selenium', port=4444): Max retries exceeded with url: /wd/hub/status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f80c8ca8c70>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2024-07-10T13:08:09.487288 - En attente de Selenium Grid...
+2024-07-10T13:08:10.502319 - Erreur de connexion: HTTPConnectionPool(host='selenium', port=4444): Max retries exceeded with url: /wd/hub/status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f80c8c48760>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2024-07-10T13:08:10.512480 - En attente de Selenium Grid...
+2024-07-10T13:08:11.523688 - Erreur de connexion: HTTPConnectionPool(host='selenium', port=4444): Max retries exceeded with url: /wd/hub/status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f80c8c48160>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2024-07-10T13:08:11.533161 - En attente de Selenium Grid...
+2024-07-10T13:08:12.555211 - Selenium Grid est prêt.
+2024-07-10T13:13:12.617653 - Tentative 1: Selenium Grid n'est pas prêt, attente... Erreur: Message: Could not start a new session. New session request timed out 
+Host info: host: '36b026ab42da', ip: '192.168.48.2'
+Build info: version: '4.22.0', revision: 'c5f3146703'
+System info: os.name: 'Linux', os.arch: 'amd64', os.version: '6.6.31-linuxkit', java.version: '17.0.11'
+Driver info: driver.version: unknown
+Stacktrace:
+    at org.openqa.selenium.grid.sessionqueue.local.LocalNewSessionQueue.addToQueue (LocalNewSessionQueue.java:221)
+    at org.openqa.selenium.grid.sessionqueue.NewSessionQueue.lambda$new$0 (NewSessionQueue.java:68)
+    at org.openqa.selenium.remote.http.Route$TemplatizedRoute.handle (Route.java:192)
+    at org.openqa.selenium.remote.http.Route.execute (Route.java:69)
+    at org.openqa.selenium.remote.http.Route$CombinedRoute.handle (Route.java:360)
+    at org.openqa.selenium.remote.http.Route.execute (Route.java:69)
+    at org.openqa.selenium.grid.sessionqueue.NewSessionQueue.execute (NewSessionQueue.java:128)
+    at org.openqa.selenium.remote.tracing.SpanWrappedHttpHandler.execute (SpanWrappedHttpHandler.java:87)
+    at org.openqa.selenium.remote.http.Filter$1.execute (Filter.java:63)
+    at org.openqa.selenium.remote.http.Route$CombinedRoute.handle (Route.java:360)
+    at org.openqa.selenium.remote.http.Route.execute (Route.java:69)
+    at org.openqa.selenium.grid.router.Router.execute (Router.java:87)
+    at org.openqa.selenium.grid.web.EnsureSpecCompliantResponseHeaders.lambda$apply$0 (EnsureSpecCompliantResponseHeaders.java:34)
+    at org.openqa.selenium.remote.http.Filter$1.execute (Filter.java:63)
+    at org.openqa.selenium.remote.http.Route$CombinedRoute.handle (Route.java:360)
+    at org.openqa.selenium.remote.http.Route.execute (Route.java:69)
+    at org.openqa.selenium.remote.http.Route$NestedRoute.handle (Route.java:270)
+    at org.openqa.selenium.remote.http.Route.execute (Route.java:69)
+    at org.openqa.selenium.remote.http.Route$CombinedRoute.handle (Route.java:360)
+    at org.openqa.selenium.remote.http.Route.execute (Route.java:69)
+    at org.openqa.selenium.remote.AddWebDriverSpecHeaders.lambda$apply$0 (AddWebDriverSpecHeaders.java:35)
+    at org.openqa.selenium.remote.ErrorFilter.lambda$apply$0 (ErrorFilter.java:44)
+    at org.openqa.selenium.remote.http.Filter$1.execute (Filter.java:63)
+    at org.openqa.selenium.remote.ErrorFilter.lambda$apply$0 (ErrorFilter.java:44)
+    at org.openqa.selenium.remote.http.Filter$1.execute (Filter.java:63)
+    at org.openqa.selenium.netty.server.SeleniumHandler.lambda$channelRead0$0 (SeleniumHandler.java:44)
+    at java.util.concurrent.Executors$RunnableAdapter.call (None:-1)
+    at java.util.concurrent.FutureTask.run (None:-1)
+    at java.util.concurrent.ThreadPoolExecutor.runWorker (None:-1)
+    at java.util.concurrent.ThreadPoolExecutor$Worker.run (None:-1)
+    at java.lang.Thread.run (None:-1)
+2024-07-10T13:13:42.303472 - Connexion au Selenium Grid réussie.
+2024-07-10T13:13:43.112646 - Félicitations ! L'accès à l'URL a été réussi.
+2024-07-10T13:13:45.241866 - Les cookies ont bien été acceptés
+2024-07-10T13:13:45.252245 - Début de la procédure de connexion
+2024-07-10T13:13:45.264098 - Cliquer sur l'icône de connexion
+2024-07-10T13:13:45.273141 - Tentative de clic sur l'élément: //*[name()='svg' and @data-testid='ExpandMoreIcon']
+2024-07-10T13:13:45.632525 - Clic réussi sur l'élément: //*[name()='svg' and @data-testid='ExpandMoreIcon']
+2024-07-10T13:13:50.641545 - Cliquer sur le bouton 'Se connecter'
+2024-07-10T13:13:50.646791 - Tentative de clic sur l'élément: //*[@id='main-header-menu']/a[2]/div/span
+2024-07-10T13:14:11.167944 - Erreur lors du clic sur l'élément: //*[@id='main-header-menu']/a[2]/div/span, Erreur: Message: 
+Stacktrace:
+#0 0x55f84c3d169a <unknown>
+#1 0x55f84c0b40dc <unknown>
+#2 0x55f84c100931 <unknown>
+#3 0x55f84c100a21 <unknown>
+#4 0x55f84c145234 <unknown>
+#5 0x55f84c12389d <unknown>
+#6 0x55f84c1425c3 <unknown>
+#7 0x55f84c123613 <unknown>
+#8 0x55f84c0f34f7 <unknown>
+#9 0x55f84c0f3e4e <unknown>
+#10 0x55f84c39786b <unknown>
+#11 0x55f84c39b911 <unknown>
+#12 0x55f84c38335e <unknown>
+#13 0x55f84c39c472 <unknown>
+#14 0x55f84c367cbf <unknown>
+#15 0x55f84c3c1098 <unknown>
+#16 0x55f84c3c1270 <unknown>
+#17 0x55f84c3d07cc <unknown>
+#18 0x7ff0036a6ac3 <unknown>
+
+2024-07-10T13:14:11.181022 - Erreur lors de la connexion: Message: 
+Stacktrace:
+#0 0x55f84c3d169a <unknown>
+#1 0x55f84c0b40dc <unknown>
+#2 0x55f84c100931 <unknown>
+#3 0x55f84c100a21 <unknown>
+#4 0x55f84c145234 <unknown>
+#5 0x55f84c12389d <unknown>
+#6 0x55f84c1425c3 <unknown>
+#7 0x55f84c123613 <unknown>
+#8 0x55f84c0f34f7 <unknown>
+#9 0x55f84c0f3e4e <unknown>
+#10 0x55f84c39786b <unknown>
+#11 0x55f84c39b911 <unknown>
+#12 0x55f84c38335e <unknown>
+#13 0x55f84c39c472 <unknown>
+#14 0x55f84c367cbf <unknown>
+#15 0x55f84c3c1098 <unknown>
+#16 0x55f84c3c1270 <unknown>
+#17 0x55f84c3d07cc <unknown>
+#18 0x7ff0036a6ac3 <unknown>
+

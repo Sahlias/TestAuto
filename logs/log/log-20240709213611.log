@@ -1,0 +1,33 @@
+2024-07-09T21:36:11.252356 - Erreur de connexion: HTTPConnectionPool(host='selenium', port=4444): Max retries exceeded with url: /wd/hub/status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f9e8a140910>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2024-07-09T21:36:11.270356 - En attente de Selenium Grid...
+2024-07-09T21:36:12.288698 - Erreur de connexion: HTTPConnectionPool(host='selenium', port=4444): Max retries exceeded with url: /wd/hub/status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f9e8a0df340>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2024-07-09T21:36:12.299802 - En attente de Selenium Grid...
+2024-07-09T21:36:13.316138 - Erreur de connexion: HTTPConnectionPool(host='selenium', port=4444): Max retries exceeded with url: /wd/hub/status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f9e8a0dfd30>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2024-07-09T21:36:13.328354 - En attente de Selenium Grid...
+2024-07-09T21:36:14.496996 - Selenium Grid est prêt.
+2024-07-09T21:36:15.412472 - Connexion au Selenium Grid réussie.
+2024-07-09T21:36:16.414935 - Félicitations ! L'accès à l'URL a été réussi.
+2024-07-09T21:36:28.720672 - Erreur lors de l'acceptation des cookies : Message: 
+Stacktrace:
+#0 0x55c455bf869a <unknown>
+#1 0x55c4558db0dc <unknown>
+#2 0x55c455927931 <unknown>
+#3 0x55c455927a21 <unknown>
+#4 0x55c45596c234 <unknown>
+#5 0x55c45594a89d <unknown>
+#6 0x55c4559695c3 <unknown>
+#7 0x55c45594a613 <unknown>
+#8 0x55c45591a4f7 <unknown>
+#9 0x55c45591ae4e <unknown>
+#10 0x55c455bbe86b <unknown>
+#11 0x55c455bc2911 <unknown>
+#12 0x55c455baa35e <unknown>
+#13 0x55c455bc3472 <unknown>
+#14 0x55c455b8ecbf <unknown>
+#15 0x55c455be8098 <unknown>
+#16 0x55c455be8270 <unknown>
+#17 0x55c455bf77cc <unknown>
+#18 0x7ff921e83ac3 <unknown>
+
+2024-07-09T21:36:28.735201 - Fermeture du WebDriver.
+2024-07-09T21:36:28.743633 - Fermeture du WebDriver.

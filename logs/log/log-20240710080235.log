@@ -1,0 +1,78 @@
+2024-07-10T08:02:35.876443 - Erreur de connexion: HTTPConnectionPool(host='selenium', port=4444): Max retries exceeded with url: /wd/hub/status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fad36c14b20>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2024-07-10T08:02:35.887937 - En attente de Selenium Grid...
+2024-07-10T08:02:36.899919 - Erreur de connexion: HTTPConnectionPool(host='selenium', port=4444): Max retries exceeded with url: /wd/hub/status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fad36bb15e0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2024-07-10T08:02:36.907888 - En attente de Selenium Grid...
+2024-07-10T08:02:37.920496 - Erreur de connexion: HTTPConnectionPool(host='selenium', port=4444): Max retries exceeded with url: /wd/hub/status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fad36c03fd0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2024-07-10T08:02:37.939034 - En attente de Selenium Grid...
+2024-07-10T08:02:38.977584 - Selenium Grid est prêt.
+2024-07-10T08:03:26.135270 - Connexion au Selenium Grid réussie.
+2024-07-10T08:03:26.807182 - Félicitations ! L'accès à l'URL a été réussi.
+2024-07-10T08:03:29.498194 - Les cookies ont bien été acceptés
+2024-07-10T08:03:29.642502 - Début de la procédure de connexion
+2024-07-10T08:03:29.715322 - Cliquer sur l'icône de connexion
+2024-07-10T08:03:29.758307 - Tentative de clic sur l'élément: //*[name()='svg' and @data-testid='ExpandMoreIcon']
+2024-07-10T08:03:32.570128 - Clic réussi sur l'élément: //*[name()='svg' and @data-testid='ExpandMoreIcon']
+2024-07-10T08:03:37.580505 - Cliquer sur le bouton 'Se connecter'
+2024-07-10T08:03:37.590681 - Tentative de clic sur l'élément: //*[@id='main-header-menu']/a[2]/div/span
+2024-07-10T08:03:37.804285 - Clic réussi sur l'élément: //*[@id='main-header-menu']/a[2]/div/span
+2024-07-10T08:03:42.821448 - Saisir l'adresse email
+2024-07-10T08:03:42.829648 - Tentative d'envoi de touches à l'élément: field-userEmail-1
+2024-07-10T08:03:43.091575 - Envoi de touches réussi à l'élément: field-userEmail-1
+2024-07-10T08:03:43.100494 - Tentative d'envoi de touches à l'élément: field-userEmail-1
+2024-07-10T08:03:43.255014 - Envoi de touches réussi à l'élément: field-userEmail-1
+2024-07-10T08:03:45.277517 - Cliquer sur le bouton 'Continuer'
+2024-07-10T08:03:45.285191 - Saisir le mot de passe
+2024-07-10T08:03:45.292064 - Tentative d'envoi de touches à l'élément: _password
+2024-07-10T08:03:45.474525 - Envoi de touches réussi à l'élément: _password
+2024-07-10T08:03:45.491815 - Tentative d'envoi de touches à l'élément: _password
+2024-07-10T08:03:45.576509 - Envoi de touches réussi à l'élément: _password
+2024-07-10T08:03:45.585427 - Connexion réussie
+2024-07-10T08:03:45.593991 - Cliquer sur l'icône de compte
+2024-07-10T08:03:45.603260 - Tentative de clic sur l'élément: div[data-testid='avatar-root']
+2024-07-10T08:03:49.025027 - Clic réussi sur l'élément: div[data-testid='avatar-root']
+2024-07-10T08:03:51.041471 - Cliquer sur le bouton de déconnexion
+2024-07-10T08:03:51.049563 - Tentative de clic sur l'élément: //*[contains(text(),'Déconnexion')]
+2024-07-10T08:04:11.203307 - Erreur lors du clic sur l'élément: //*[contains(text(),'Déconnexion')], Erreur: Message: 
+Stacktrace:
+#0 0x5607f451069a <unknown>
+#1 0x5607f41f30dc <unknown>
+#2 0x5607f423f931 <unknown>
+#3 0x5607f423fa21 <unknown>
+#4 0x5607f4284234 <unknown>
+#5 0x5607f426289d <unknown>
+#6 0x5607f42815c3 <unknown>
+#7 0x5607f4262613 <unknown>
+#8 0x5607f42324f7 <unknown>
+#9 0x5607f4232e4e <unknown>
+#10 0x5607f44d686b <unknown>
+#11 0x5607f44da911 <unknown>
+#12 0x5607f44c235e <unknown>
+#13 0x5607f44db472 <unknown>
+#14 0x5607f44a6cbf <unknown>
+#15 0x5607f4500098 <unknown>
+#16 0x5607f4500270 <unknown>
+#17 0x5607f450f7cc <unknown>
+#18 0x7fcf8d394ac3 <unknown>
+
+2024-07-10T08:04:11.247699 - Erreur lors de la déconnexion: Message: 
+Stacktrace:
+#0 0x5607f451069a <unknown>
+#1 0x5607f41f30dc <unknown>
+#2 0x5607f423f931 <unknown>
+#3 0x5607f423fa21 <unknown>
+#4 0x5607f4284234 <unknown>
+#5 0x5607f426289d <unknown>
+#6 0x5607f42815c3 <unknown>
+#7 0x5607f4262613 <unknown>
+#8 0x5607f42324f7 <unknown>
+#9 0x5607f4232e4e <unknown>
+#10 0x5607f44d686b <unknown>
+#11 0x5607f44da911 <unknown>
+#12 0x5607f44c235e <unknown>
+#13 0x5607f44db472 <unknown>
+#14 0x5607f44a6cbf <unknown>
+#15 0x5607f4500098 <unknown>
+#16 0x5607f4500270 <unknown>
+#17 0x5607f450f7cc <unknown>
+#18 0x7fcf8d394ac3 <unknown>
+

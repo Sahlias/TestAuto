@@ -1,0 +1,81 @@
+2024-07-10T08:16:20.822154 - Erreur de connexion: HTTPConnectionPool(host='selenium', port=4444): Max retries exceeded with url: /wd/hub/status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fdbf8155b80>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2024-07-10T08:16:20.864218 - En attente de Selenium Grid...
+2024-07-10T08:16:21.923297 - Erreur de connexion: HTTPConnectionPool(host='selenium', port=4444): Max retries exceeded with url: /wd/hub/status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fdbf80f55e0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2024-07-10T08:16:21.952962 - En attente de Selenium Grid...
+2024-07-10T08:16:22.996693 - Erreur de connexion: HTTPConnectionPool(host='selenium', port=4444): Max retries exceeded with url: /wd/hub/status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fdbf8146fd0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2024-07-10T08:16:23.021318 - En attente de Selenium Grid...
+2024-07-10T08:16:24.064761 - Erreur de connexion: HTTPConnectionPool(host='selenium', port=4444): Max retries exceeded with url: /wd/hub/status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fdbf8155a60>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2024-07-10T08:16:24.087762 - En attente de Selenium Grid...
+2024-07-10T08:16:25.136500 - Erreur de connexion: HTTPConnectionPool(host='selenium', port=4444): Max retries exceeded with url: /wd/hub/status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fdbf80f5fa0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2024-07-10T08:16:25.155445 - En attente de Selenium Grid...
+2024-07-10T08:16:26.198968 - Erreur de connexion: HTTPConnectionPool(host='selenium', port=4444): Max retries exceeded with url: /wd/hub/status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fdbf81019a0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2024-07-10T08:16:26.256359 - En attente de Selenium Grid...
+2024-07-10T08:16:27.309522 - Selenium Grid est prêt.
+2024-07-10T08:17:19.320655 - Connexion au Selenium Grid réussie.
+2024-07-10T08:17:20.425811 - Félicitations ! L'accès à l'URL a été réussi.
+2024-07-10T08:17:22.682428 - Les cookies ont bien été acceptés
+2024-07-10T08:17:22.700837 - Début de la procédure de connexion
+2024-07-10T08:17:22.720079 - Cliquer sur l'icône de connexion
+2024-07-10T08:17:22.735346 - Tentative de clic sur l'élément: //*[name()='svg' and @data-testid='ExpandMoreIcon']
+2024-07-10T08:17:24.650174 - Clic réussi sur l'élément: //*[name()='svg' and @data-testid='ExpandMoreIcon']
+2024-07-10T08:17:29.664722 - Cliquer sur le bouton 'Se connecter'
+2024-07-10T08:17:29.699960 - Tentative de clic sur l'élément: //*[@id='main-header-menu']/a[2]/div/span
+2024-07-10T08:17:30.327350 - Clic réussi sur l'élément: //*[@id='main-header-menu']/a[2]/div/span
+2024-07-10T08:17:35.342776 - Saisir l'adresse email
+2024-07-10T08:17:35.350858 - Tentative d'envoi de touches à l'élément: field-userEmail-1
+2024-07-10T08:17:35.620319 - Envoi de touches réussi à l'élément: field-userEmail-1
+2024-07-10T08:17:35.628891 - Tentative d'envoi de touches à l'élément: field-userEmail-1
+2024-07-10T08:17:35.803178 - Envoi de touches réussi à l'élément: field-userEmail-1
+2024-07-10T08:17:37.820994 - Cliquer sur le bouton 'Continuer'
+2024-07-10T08:17:37.832223 - Saisir le mot de passe
+2024-07-10T08:17:37.843263 - Tentative d'envoi de touches à l'élément: _password
+2024-07-10T08:17:38.224728 - Envoi de touches réussi à l'élément: _password
+2024-07-10T08:17:38.236235 - Tentative d'envoi de touches à l'élément: _password
+2024-07-10T08:17:38.435984 - Envoi de touches réussi à l'élément: _password
+2024-07-10T08:17:38.468249 - Connexion réussie
+2024-07-10T08:17:38.493884 - Cliquer sur l'icône de compte
+2024-07-10T08:17:38.510145 - Tentative de clic sur l'élément: div[data-testid='avatar-root']
+2024-07-10T08:17:58.724866 - Erreur lors du clic sur l'élément: div[data-testid='avatar-root'], Erreur: Message: 
+Stacktrace:
+#0 0x55deaa6b069a <unknown>
+#1 0x55deaa3930dc <unknown>
+#2 0x55deaa3df931 <unknown>
+#3 0x55deaa3dfa21 <unknown>
+#4 0x55deaa424234 <unknown>
+#5 0x55deaa40289d <unknown>
+#6 0x55deaa4215c3 <unknown>
+#7 0x55deaa402613 <unknown>
+#8 0x55deaa3d24f7 <unknown>
+#9 0x55deaa3d2e4e <unknown>
+#10 0x55deaa67686b <unknown>
+#11 0x55deaa67a911 <unknown>
+#12 0x55deaa66235e <unknown>
+#13 0x55deaa67b472 <unknown>
+#14 0x55deaa646cbf <unknown>
+#15 0x55deaa6a0098 <unknown>
+#16 0x55deaa6a0270 <unknown>
+#17 0x55deaa6af7cc <unknown>
+#18 0x7fd1c13daac3 <unknown>
+
+2024-07-10T08:17:58.742414 - Erreur lors de la déconnexion: Message: 
+Stacktrace:
+#0 0x55deaa6b069a <unknown>
+#1 0x55deaa3930dc <unknown>
+#2 0x55deaa3df931 <unknown>
+#3 0x55deaa3dfa21 <unknown>
+#4 0x55deaa424234 <unknown>
+#5 0x55deaa40289d <unknown>
+#6 0x55deaa4215c3 <unknown>
+#7 0x55deaa402613 <unknown>
+#8 0x55deaa3d24f7 <unknown>
+#9 0x55deaa3d2e4e <unknown>
+#10 0x55deaa67686b <unknown>
+#11 0x55deaa67a911 <unknown>
+#12 0x55deaa66235e <unknown>
+#13 0x55deaa67b472 <unknown>
+#14 0x55deaa646cbf <unknown>
+#15 0x55deaa6a0098 <unknown>
+#16 0x55deaa6a0270 <unknown>
+#17 0x55deaa6af7cc <unknown>
+#18 0x7fd1c13daac3 <unknown>
+

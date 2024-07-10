@@ -1,0 +1,81 @@
+2024-07-10T08:33:47.205745 - Erreur de connexion: HTTPConnectionPool(host='selenium', port=4444): Max retries exceeded with url: /wd/hub/status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fa50e9a7b80>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2024-07-10T08:33:47.219107 - En attente de Selenium Grid...
+2024-07-10T08:33:48.249589 - Erreur de connexion: HTTPConnectionPool(host='selenium', port=4444): Max retries exceeded with url: /wd/hub/status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fa50e9475e0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2024-07-10T08:33:48.258170 - En attente de Selenium Grid...
+2024-07-10T08:33:49.273632 - Erreur de connexion: HTTPConnectionPool(host='selenium', port=4444): Max retries exceeded with url: /wd/hub/status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fa50e998f70>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2024-07-10T08:33:49.292166 - En attente de Selenium Grid...
+2024-07-10T08:33:50.315240 - Erreur de connexion: HTTPConnectionPool(host='selenium', port=4444): Max retries exceeded with url: /wd/hub/status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fa50e9a7a30>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2024-07-10T08:33:50.359999 - En attente de Selenium Grid...
+2024-07-10T08:33:51.409348 - Selenium Grid est prêt.
+2024-07-10T08:34:41.032482 - Connexion au Selenium Grid réussie.
+2024-07-10T08:34:42.882539 - Félicitations ! L'accès à l'URL a été réussi.
+2024-07-10T08:34:45.416532 - Les cookies ont bien été acceptés
+2024-07-10T08:34:45.516459 - Début de la procédure de connexion
+2024-07-10T08:34:45.609576 - Cliquer sur l'icône de connexion
+2024-07-10T08:34:45.647839 - Tentative de clic sur l'élément: //*[name()='svg' and @data-testid='ExpandMoreIcon']
+2024-07-10T08:34:50.366932 - Clic réussi sur l'élément: //*[name()='svg' and @data-testid='ExpandMoreIcon']
+2024-07-10T08:34:55.379721 - Cliquer sur le bouton 'Se connecter'
+2024-07-10T08:34:55.387880 - Tentative de clic sur l'élément: //*[@id='main-header-menu']/a[2]/div/span
+2024-07-10T08:34:55.550298 - Clic réussi sur l'élément: //*[@id='main-header-menu']/a[2]/div/span
+2024-07-10T08:35:00.562724 - Saisir l'adresse email
+2024-07-10T08:35:00.571433 - Tentative d'envoi de touches à l'élément: field-userEmail-1
+2024-07-10T08:35:00.825051 - Envoi de touches réussi à l'élément: field-userEmail-1
+2024-07-10T08:35:00.831578 - Tentative d'envoi de touches à l'élément: field-userEmail-1
+2024-07-10T08:35:00.963367 - Envoi de touches réussi à l'élément: field-userEmail-1
+2024-07-10T08:35:02.977785 - Cliquer sur le bouton 'Continuer'
+2024-07-10T08:35:02.983444 - Saisir le mot de passe
+2024-07-10T08:35:02.990990 - Tentative d'envoi de touches à l'élément: _password
+2024-07-10T08:35:03.213207 - Envoi de touches réussi à l'élément: _password
+2024-07-10T08:35:03.221732 - Tentative d'envoi de touches à l'élément: _password
+2024-07-10T08:35:03.339412 - Envoi de touches réussi à l'élément: _password
+2024-07-10T08:35:03.352553 - Connexion réussie
+2024-07-10T08:35:03.363855 - Cliquer sur l'icône de compte
+2024-07-10T08:35:03.397965 - Tentative de clic sur l'élément: div[data-testid='avatar-root']
+2024-07-10T08:35:06.803049 - Clic réussi sur l'élément: div[data-testid='avatar-root']
+2024-07-10T08:35:06.817484 - Etape reussie
+2024-07-10T08:35:08.829284 - Cliquer sur le bouton de déconnexion
+2024-07-10T08:35:08.838452 - Tentative de clic sur l'élément: span.sc-iqcoie.dzyXUh.MuiTypography-root.MuiTypography-body.dom-services-2-dom-services286
+2024-07-10T08:35:29.335551 - Erreur lors du clic sur l'élément: span.sc-iqcoie.dzyXUh.MuiTypography-root.MuiTypography-body.dom-services-2-dom-services286, Erreur: Message: 
+Stacktrace:
+#0 0x561eab27469a <unknown>
+#1 0x561eaaf570dc <unknown>
+#2 0x561eaafa3931 <unknown>
+#3 0x561eaafa3a21 <unknown>
+#4 0x561eaafe8234 <unknown>
+#5 0x561eaafc689d <unknown>
+#6 0x561eaafe55c3 <unknown>
+#7 0x561eaafc6613 <unknown>
+#8 0x561eaaf964f7 <unknown>
+#9 0x561eaaf96e4e <unknown>
+#10 0x561eab23a86b <unknown>
+#11 0x561eab23e911 <unknown>
+#12 0x561eab22635e <unknown>
+#13 0x561eab23f472 <unknown>
+#14 0x561eab20acbf <unknown>
+#15 0x561eab264098 <unknown>
+#16 0x561eab264270 <unknown>
+#17 0x561eab2737cc <unknown>
+#18 0x7ff8a13ccac3 <unknown>
+
+2024-07-10T08:35:29.380974 - Erreur lors de la déconnexion: Message: 
+Stacktrace:
+#0 0x561eab27469a <unknown>
+#1 0x561eaaf570dc <unknown>
+#2 0x561eaafa3931 <unknown>
+#3 0x561eaafa3a21 <unknown>
+#4 0x561eaafe8234 <unknown>
+#5 0x561eaafc689d <unknown>
+#6 0x561eaafe55c3 <unknown>
+#7 0x561eaafc6613 <unknown>
+#8 0x561eaaf964f7 <unknown>
+#9 0x561eaaf96e4e <unknown>
+#10 0x561eab23a86b <unknown>
+#11 0x561eab23e911 <unknown>
+#12 0x561eab22635e <unknown>
+#13 0x561eab23f472 <unknown>
+#14 0x561eab20acbf <unknown>
+#15 0x561eab264098 <unknown>
+#16 0x561eab264270 <unknown>
+#17 0x561eab2737cc <unknown>
+#18 0x7ff8a13ccac3 <unknown>
+

@@ -1,0 +1,45 @@
+2024-07-10T10:34:42.542142 - Erreur lors du clique sur le bouton de recherche : 'OpenClassRoomsActions' object has no attribute 'click_element'
+2024-07-10T10:34:57.708666 - Erreur la recherche a échoué : Message: 
+Stacktrace:
+#0 0x563d5d32069a <unknown>
+#1 0x563d5d0030dc <unknown>
+#2 0x563d5d04f931 <unknown>
+#3 0x563d5d04fa21 <unknown>
+#4 0x563d5d094234 <unknown>
+#5 0x563d5d07289d <unknown>
+#6 0x563d5d0915c3 <unknown>
+#7 0x563d5d072613 <unknown>
+#8 0x563d5d0424f7 <unknown>
+#9 0x563d5d042e4e <unknown>
+#10 0x563d5d2e686b <unknown>
+#11 0x563d5d2ea911 <unknown>
+#12 0x563d5d2d235e <unknown>
+#13 0x563d5d2eb472 <unknown>
+#14 0x563d5d2b6cbf <unknown>
+#15 0x563d5d310098 <unknown>
+#16 0x563d5d310270 <unknown>
+#17 0x563d5d31f7cc <unknown>
+#18 0x7fbf34befac3 <unknown>
+
+2024-07-10T10:35:07.806171 - Erreur lors de la selectionnion du 3 ème élément de la liste de recherche : Message: 
+Stacktrace:
+#0 0x563d5d32069a <unknown>
+#1 0x563d5d0030dc <unknown>
+#2 0x563d5d04f931 <unknown>
+#3 0x563d5d04fa21 <unknown>
+#4 0x563d5d094234 <unknown>
+#5 0x563d5d07289d <unknown>
+#6 0x563d5d0915c3 <unknown>
+#7 0x563d5d072613 <unknown>
+#8 0x563d5d0424f7 <unknown>
+#9 0x563d5d042e4e <unknown>
+#10 0x563d5d2e686b <unknown>
+#11 0x563d5d2ea911 <unknown>
+#12 0x563d5d2d235e <unknown>
+#13 0x563d5d2eb472 <unknown>
+#14 0x563d5d2b6cbf <unknown>
+#15 0x563d5d310098 <unknown>
+#16 0x563d5d310270 <unknown>
+#17 0x563d5d31f7cc <unknown>
+#18 0x7fbf34befac3 <unknown>
+

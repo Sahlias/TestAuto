@@ -1,0 +1,68 @@
+2024-07-10T05:49:26.418278 - Erreur de connexion: HTTPConnectionPool(host='selenium', port=4444): Max retries exceeded with url: /wd/hub/status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fd04b8bab80>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2024-07-10T05:49:26.440851 - En attente de Selenium Grid...
+2024-07-10T05:49:27.462056 - Erreur de connexion: HTTPConnectionPool(host='selenium', port=4444): Max retries exceeded with url: /wd/hub/status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fd04b85a610>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2024-07-10T05:49:27.480423 - En attente de Selenium Grid...
+2024-07-10T05:49:28.498718 - Erreur de connexion: HTTPConnectionPool(host='selenium', port=4444): Max retries exceeded with url: /wd/hub/status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fd04b8acfd0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2024-07-10T05:49:28.511606 - En attente de Selenium Grid...
+2024-07-10T05:49:29.682951 - Selenium Grid est prêt.
+2024-07-10T05:49:30.448029 - Connexion au Selenium Grid réussie.
+2024-07-10T05:49:31.466765 - Félicitations ! L'accès à l'URL a été réussi.
+2024-07-10T05:49:34.162281 - Les cookies ont bien été acceptés
+2024-07-10T05:49:34.179485 - Début de la procédure de connexion
+2024-07-10T05:49:34.197380 - Cliquer sur l'icône de connexion
+2024-07-10T05:49:34.209216 - Tentative de clic sur l'élément: //*[name()='svg' and @data-testid='ExpandMoreIcon']
+2024-07-10T05:49:35.100998 - Clic réussi sur l'élément: //*[name()='svg' and @data-testid='ExpandMoreIcon']
+2024-07-10T05:49:40.120411 - Cliquer sur le bouton 'Se connecter'
+2024-07-10T05:49:40.136773 - Tentative de clic sur l'élément: //*[@id='main-header-menu']/a[2]/div/span
+2024-07-10T05:49:40.686798 - Clic réussi sur l'élément: //*[@id='main-header-menu']/a[2]/div/span
+2024-07-10T05:49:45.711547 - Saisir l'adresse email
+2024-07-10T05:49:45.742095 - Tentative d'envoi de touches à l'élément: field-userEmail-1
+2024-07-10T05:49:46.240343 - Envoi de touches réussi à l'élément: field-userEmail-1
+2024-07-10T05:49:46.256470 - Tentative d'envoi de touches à l'élément: field-userEmail-1
+2024-07-10T05:49:46.510023 - Envoi de touches réussi à l'élément: field-userEmail-1
+2024-07-10T05:49:48.527282 - Cliquer sur le bouton 'Continuer'
+2024-07-10T05:49:48.564488 - Tentative de clic sur l'élément: //*[@id='continue-button']
+2024-07-10T05:50:08.717545 - Erreur lors du clic sur l'élément: //*[@id='continue-button'], Erreur: Message: 
+Stacktrace:
+#0 0x55df48c2f69a <unknown>
+#1 0x55df489120dc <unknown>
+#2 0x55df4895e931 <unknown>
+#3 0x55df4895ea21 <unknown>
+#4 0x55df489a3234 <unknown>
+#5 0x55df4898189d <unknown>
+#6 0x55df489a05c3 <unknown>
+#7 0x55df48981613 <unknown>
+#8 0x55df489514f7 <unknown>
+#9 0x55df48951e4e <unknown>
+#10 0x55df48bf586b <unknown>
+#11 0x55df48bf9911 <unknown>
+#12 0x55df48be135e <unknown>
+#13 0x55df48bfa472 <unknown>
+#14 0x55df48bc5cbf <unknown>
+#15 0x55df48c1f098 <unknown>
+#16 0x55df48c1f270 <unknown>
+#17 0x55df48c2e7cc <unknown>
+#18 0x7f4e46062ac3 <unknown>
+
+2024-07-10T05:50:08.769526 - Erreur lors de la connexion: Message: 
+Stacktrace:
+#0 0x55df48c2f69a <unknown>
+#1 0x55df489120dc <unknown>
+#2 0x55df4895e931 <unknown>
+#3 0x55df4895ea21 <unknown>
+#4 0x55df489a3234 <unknown>
+#5 0x55df4898189d <unknown>
+#6 0x55df489a05c3 <unknown>
+#7 0x55df48981613 <unknown>
+#8 0x55df489514f7 <unknown>
+#9 0x55df48951e4e <unknown>
+#10 0x55df48bf586b <unknown>
+#11 0x55df48bf9911 <unknown>
+#12 0x55df48be135e <unknown>
+#13 0x55df48bfa472 <unknown>
+#14 0x55df48bc5cbf <unknown>
+#15 0x55df48c1f098 <unknown>
+#16 0x55df48c1f270 <unknown>
+#17 0x55df48c2e7cc <unknown>
+#18 0x7f4e46062ac3 <unknown>
+

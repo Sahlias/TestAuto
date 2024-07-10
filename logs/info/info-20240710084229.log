@@ -1,0 +1,27 @@
+2024-07-10T08:43:10.606833 - Début de la procédure de connexion
+2024-07-10T08:43:10.624505 - Cliquer sur l'icône de connexion
+2024-07-10T08:43:10.659959 - Tentative de clic sur l'élément: //*[name()='svg' and @data-testid='ExpandMoreIcon']
+2024-07-10T08:43:15.658336 - Clic réussi sur l'élément: //*[name()='svg' and @data-testid='ExpandMoreIcon']
+2024-07-10T08:43:20.678758 - Cliquer sur le bouton 'Se connecter'
+2024-07-10T08:43:20.703871 - Tentative de clic sur l'élément: //*[@id='main-header-menu']/a[2]/div/span
+2024-07-10T08:43:21.196303 - Clic réussi sur l'élément: //*[@id='main-header-menu']/a[2]/div/span
+2024-07-10T08:43:26.210644 - Saisir l'adresse email
+2024-07-10T08:43:26.247662 - Tentative d'envoi de touches à l'élément: field-userEmail-1
+2024-07-10T08:43:26.870153 - Envoi de touches réussi à l'élément: field-userEmail-1
+2024-07-10T08:43:26.904759 - Tentative d'envoi de touches à l'élément: field-userEmail-1
+2024-07-10T08:43:27.334620 - Envoi de touches réussi à l'élément: field-userEmail-1
+2024-07-10T08:43:29.351619 - Cliquer sur le bouton 'Continuer'
+2024-07-10T08:43:29.358369 - Saisir le mot de passe
+2024-07-10T08:43:29.365782 - Tentative d'envoi de touches à l'élément: _password
+2024-07-10T08:43:29.570292 - Envoi de touches réussi à l'élément: _password
+2024-07-10T08:43:29.579835 - Tentative d'envoi de touches à l'élément: _password
+2024-07-10T08:43:29.680668 - Envoi de touches réussi à l'élément: _password
+2024-07-10T08:43:29.690985 - Connexion réussie
+2024-07-10T08:43:29.706665 - Cliquer sur l'icône de compte
+2024-07-10T08:43:29.728862 - Tentative de clic sur l'élément: div[data-testid='avatar-root']
+2024-07-10T08:43:33.052462 - Clic réussi sur l'élément: div[data-testid='avatar-root']
+2024-07-10T08:43:33.062009 - Etape reussie
+2024-07-10T08:43:35.073654 - Cliquer sur le bouton de déconnexion
+2024-07-10T08:43:35.081849 - Tentative de clic sur l'élément: div[data-testid='avatar-root']
+2024-07-10T08:43:35.428518 - Clic réussi sur l'élément: div[data-testid='avatar-root']
+2024-07-10T08:43:35.436915 - Déconnexion réussie

@@ -1,0 +1,79 @@
+2024-07-10T08:26:18.475345 - Erreur de connexion: HTTPConnectionPool(host='selenium', port=4444): Max retries exceeded with url: /wd/hub/status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f83a78a2b80>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2024-07-10T08:26:18.488775 - En attente de Selenium Grid...
+2024-07-10T08:26:19.502839 - Erreur de connexion: HTTPConnectionPool(host='selenium', port=4444): Max retries exceeded with url: /wd/hub/status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f83a7842640>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2024-07-10T08:26:19.511550 - En attente de Selenium Grid...
+2024-07-10T08:26:20.523573 - Erreur de connexion: HTTPConnectionPool(host='selenium', port=4444): Max retries exceeded with url: /wd/hub/status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f83a7894f70>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2024-07-10T08:26:20.533316 - En attente de Selenium Grid...
+2024-07-10T08:26:21.687277 - Selenium Grid est prêt.
+2024-07-10T08:26:22.430810 - Connexion au Selenium Grid réussie.
+2024-07-10T08:26:23.458720 - Félicitations ! L'accès à l'URL a été réussi.
+2024-07-10T08:26:26.331944 - Les cookies ont bien été acceptés
+2024-07-10T08:26:26.351340 - Début de la procédure de connexion
+2024-07-10T08:26:26.370355 - Cliquer sur l'icône de connexion
+2024-07-10T08:26:26.384457 - Tentative de clic sur l'élément: //*[name()='svg' and @data-testid='ExpandMoreIcon']
+2024-07-10T08:26:27.672447 - Clic réussi sur l'élément: //*[name()='svg' and @data-testid='ExpandMoreIcon']
+2024-07-10T08:26:32.690105 - Cliquer sur le bouton 'Se connecter'
+2024-07-10T08:26:32.698400 - Tentative de clic sur l'élément: //*[@id='main-header-menu']/a[2]/div/span
+2024-07-10T08:26:32.867820 - Clic réussi sur l'élément: //*[@id='main-header-menu']/a[2]/div/span
+2024-07-10T08:26:37.880557 - Saisir l'adresse email
+2024-07-10T08:26:37.892691 - Tentative d'envoi de touches à l'élément: field-userEmail-1
+2024-07-10T08:26:38.451558 - Envoi de touches réussi à l'élément: field-userEmail-1
+2024-07-10T08:26:38.569870 - Tentative d'envoi de touches à l'élément: field-userEmail-1
+2024-07-10T08:26:38.928918 - Envoi de touches réussi à l'élément: field-userEmail-1
+2024-07-10T08:26:40.995594 - Cliquer sur le bouton 'Continuer'
+2024-07-10T08:26:41.006942 - Saisir le mot de passe
+2024-07-10T08:26:41.019736 - Tentative d'envoi de touches à l'élément: _password
+2024-07-10T08:26:41.442103 - Envoi de touches réussi à l'élément: _password
+2024-07-10T08:26:41.473147 - Tentative d'envoi de touches à l'élément: _password
+2024-07-10T08:26:41.747944 - Envoi de touches réussi à l'élément: _password
+2024-07-10T08:26:41.774342 - Connexion réussie
+2024-07-10T08:26:41.805034 - Cliquer sur l'icône de compte
+2024-07-10T08:26:41.833781 - Tentative de clic sur l'élément: div[data-testid='avatar-root']
+2024-07-10T08:26:49.084383 - Clic réussi sur l'élément: div[data-testid='avatar-root']
+2024-07-10T08:26:49.119199 - Etape reussie
+2024-07-10T08:26:51.169136 - Cliquer sur le bouton de déconnexion
+2024-07-10T08:26:51.199412 - Tentative de clic sur l'élément: sc-kDDrLX.eegowI.MuiTypography-root.MuiTypography-body.webapp-0-webapp112
+2024-07-10T08:27:11.376487 - Erreur lors du clic sur l'élément: sc-kDDrLX.eegowI.MuiTypography-root.MuiTypography-body.webapp-0-webapp112, Erreur: Message: 
+Stacktrace:
+#0 0x5621c89ee69a <unknown>
+#1 0x5621c86d10dc <unknown>
+#2 0x5621c871d931 <unknown>
+#3 0x5621c871da21 <unknown>
+#4 0x5621c8762234 <unknown>
+#5 0x5621c874089d <unknown>
+#6 0x5621c875f5c3 <unknown>
+#7 0x5621c8740613 <unknown>
+#8 0x5621c87104f7 <unknown>
+#9 0x5621c8710e4e <unknown>
+#10 0x5621c89b486b <unknown>
+#11 0x5621c89b8911 <unknown>
+#12 0x5621c89a035e <unknown>
+#13 0x5621c89b9472 <unknown>
+#14 0x5621c8984cbf <unknown>
+#15 0x5621c89de098 <unknown>
+#16 0x5621c89de270 <unknown>
+#17 0x5621c89ed7cc <unknown>
+#18 0x7f3d963bbac3 <unknown>
+
+2024-07-10T08:27:11.406456 - Erreur lors de la déconnexion: Message: 
+Stacktrace:
+#0 0x5621c89ee69a <unknown>
+#1 0x5621c86d10dc <unknown>
+#2 0x5621c871d931 <unknown>
+#3 0x5621c871da21 <unknown>
+#4 0x5621c8762234 <unknown>
+#5 0x5621c874089d <unknown>
+#6 0x5621c875f5c3 <unknown>
+#7 0x5621c8740613 <unknown>
+#8 0x5621c87104f7 <unknown>
+#9 0x5621c8710e4e <unknown>
+#10 0x5621c89b486b <unknown>
+#11 0x5621c89b8911 <unknown>
+#12 0x5621c89a035e <unknown>
+#13 0x5621c89b9472 <unknown>
+#14 0x5621c8984cbf <unknown>
+#15 0x5621c89de098 <unknown>
+#16 0x5621c89de270 <unknown>
+#17 0x5621c89ed7cc <unknown>
+#18 0x7f3d963bbac3 <unknown>
+

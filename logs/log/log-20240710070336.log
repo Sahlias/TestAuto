@@ -1,0 +1,24 @@
+2024-07-10T07:03:36.272350 - Erreur de connexion: HTTPConnectionPool(host='selenium', port=4444): Max retries exceeded with url: /wd/hub/status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f3b81b09b80>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2024-07-10T07:03:36.282866 - En attente de Selenium Grid...
+2024-07-10T07:03:37.297835 - Erreur de connexion: HTTPConnectionPool(host='selenium', port=4444): Max retries exceeded with url: /wd/hub/status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f3b81aa95e0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2024-07-10T07:03:37.316054 - En attente de Selenium Grid...
+2024-07-10T07:03:38.426432 - Erreur de connexion: HTTPConnectionPool(host='selenium', port=4444): Max retries exceeded with url: /wd/hub/status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f3b81afbfd0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2024-07-10T07:03:38.435125 - En attente de Selenium Grid...
+2024-07-10T07:03:39.556638 - Selenium Grid est prêt.
+2024-07-10T07:03:40.287415 - Connexion au Selenium Grid réussie.
+2024-07-10T07:03:41.186777 - Félicitations ! L'accès à l'URL a été réussi.
+2024-07-10T07:03:43.638177 - Les cookies ont bien été acceptés
+2024-07-10T07:03:43.654017 - Début de la procédure de connexion
+2024-07-10T07:03:43.668966 - Cliquer sur l'icône de connexion
+2024-07-10T07:03:43.682984 - Tentative de clic sur l'élément: //*[name()='svg' and @data-testid='ExpandMoreIcon']
+2024-07-10T07:03:44.334964 - Clic réussi sur l'élément: //*[name()='svg' and @data-testid='ExpandMoreIcon']
+2024-07-10T07:03:49.346850 - Cliquer sur le bouton 'Se connecter'
+2024-07-10T07:03:49.357954 - Tentative de clic sur l'élément: //*[@id='main-header-menu']/a[2]/div/span
+2024-07-10T07:03:49.668562 - Clic réussi sur l'élément: //*[@id='main-header-menu']/a[2]/div/span
+2024-07-10T07:03:54.680898 - Saisir l'adresse email
+2024-07-10T07:03:54.689978 - Tentative d'envoi de touches à l'élément: field-userEmail-1
+2024-07-10T07:03:54.907337 - Envoi de touches réussi à l'élément: field-userEmail-1
+2024-07-10T07:03:54.915223 - Tentative d'envoi de touches à l'élément: field-userEmail-1
+2024-07-10T07:03:55.038045 - Envoi de touches réussi à l'élément: field-userEmail-1
+2024-07-10T07:03:57.049869 - Cliquer sur le bouton 'Continuer'
+2024-07-10T07:03:57.063962 - Erreur lors de la connexion: 'OpenClassroomsAutomation' object has no attribute 'click_element_js'

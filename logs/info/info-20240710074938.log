@@ -1,0 +1,14 @@
+2024-07-10T07:50:26.537854 - Début de la procédure de connexion
+2024-07-10T07:50:26.582053 - Cliquer sur l'icône de connexion
+2024-07-10T07:50:26.598150 - Tentative de clic sur l'élément: //*[name()='svg' and @data-testid='ExpandMoreIcon']
+2024-07-10T07:50:34.003448 - Clic réussi sur l'élément: //*[name()='svg' and @data-testid='ExpandMoreIcon']
+2024-07-10T07:50:39.037096 - Cliquer sur le bouton 'Se connecter'
+2024-07-10T07:50:39.073735 - Tentative de clic sur l'élément: //*[@id='main-header-menu']/a[2]/div/span
+2024-07-10T07:50:39.876815 - Clic réussi sur l'élément: //*[@id='main-header-menu']/a[2]/div/span
+2024-07-10T07:50:44.902484 - Saisir l'adresse email
+2024-07-10T07:50:44.909550 - Tentative d'envoi de touches à l'élément: field-userEmail-1
+2024-07-10T07:50:45.117001 - Envoi de touches réussi à l'élément: field-userEmail-1
+2024-07-10T07:50:45.124537 - Tentative d'envoi de touches à l'élément: field-userEmail-1
+2024-07-10T07:50:45.280593 - Envoi de touches réussi à l'élément: field-userEmail-1
+2024-07-10T07:50:47.302495 - Cliquer sur le bouton 'Continuer'
+2024-07-10T07:50:47.315025 - Tentative de clic sur l'élément: button#continue-button

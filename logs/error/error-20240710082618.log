@@ -1,0 +1,44 @@
+2024-07-10T08:27:11.376487 - Erreur lors du clic sur l'élément: sc-kDDrLX.eegowI.MuiTypography-root.MuiTypography-body.webapp-0-webapp112, Erreur: Message: 
+Stacktrace:
+#0 0x5621c89ee69a <unknown>
+#1 0x5621c86d10dc <unknown>
+#2 0x5621c871d931 <unknown>
+#3 0x5621c871da21 <unknown>
+#4 0x5621c8762234 <unknown>
+#5 0x5621c874089d <unknown>
+#6 0x5621c875f5c3 <unknown>
+#7 0x5621c8740613 <unknown>
+#8 0x5621c87104f7 <unknown>
+#9 0x5621c8710e4e <unknown>
+#10 0x5621c89b486b <unknown>
+#11 0x5621c89b8911 <unknown>
+#12 0x5621c89a035e <unknown>
+#13 0x5621c89b9472 <unknown>
+#14 0x5621c8984cbf <unknown>
+#15 0x5621c89de098 <unknown>
+#16 0x5621c89de270 <unknown>
+#17 0x5621c89ed7cc <unknown>
+#18 0x7f3d963bbac3 <unknown>
+
+2024-07-10T08:27:11.406456 - Erreur lors de la déconnexion: Message: 
+Stacktrace:
+#0 0x5621c89ee69a <unknown>
+#1 0x5621c86d10dc <unknown>
+#2 0x5621c871d931 <unknown>
+#3 0x5621c871da21 <unknown>
+#4 0x5621c8762234 <unknown>
+#5 0x5621c874089d <unknown>
+#6 0x5621c875f5c3 <unknown>
+#7 0x5621c8740613 <unknown>
+#8 0x5621c87104f7 <unknown>
+#9 0x5621c8710e4e <unknown>
+#10 0x5621c89b486b <unknown>
+#11 0x5621c89b8911 <unknown>
+#12 0x5621c89a035e <unknown>
+#13 0x5621c89b9472 <unknown>
+#14 0x5621c8984cbf <unknown>
+#15 0x5621c89de098 <unknown>
+#16 0x5621c89de270 <unknown>
+#17 0x5621c89ed7cc <unknown>
+#18 0x7f3d963bbac3 <unknown>
+

@@ -1,0 +1,44 @@
+2024-07-10T07:44:06.839747 - Erreur lors du clic sur l'élément: //*[@id='header']/div/div/div[5]/button/svg, Erreur: Message: 
+Stacktrace:
+#0 0x560d977b069a <unknown>
+#1 0x560d974930dc <unknown>
+#2 0x560d974df931 <unknown>
+#3 0x560d974dfa21 <unknown>
+#4 0x560d97524234 <unknown>
+#5 0x560d9750289d <unknown>
+#6 0x560d975215c3 <unknown>
+#7 0x560d97502613 <unknown>
+#8 0x560d974d24f7 <unknown>
+#9 0x560d974d2e4e <unknown>
+#10 0x560d9777686b <unknown>
+#11 0x560d9777a911 <unknown>
+#12 0x560d9776235e <unknown>
+#13 0x560d9777b472 <unknown>
+#14 0x560d97746cbf <unknown>
+#15 0x560d977a0098 <unknown>
+#16 0x560d977a0270 <unknown>
+#17 0x560d977af7cc <unknown>
+#18 0x7f6876403ac3 <unknown>
+
+2024-07-10T07:44:06.853162 - Erreur lors de la déconnexion: Message: 
+Stacktrace:
+#0 0x560d977b069a <unknown>
+#1 0x560d974930dc <unknown>
+#2 0x560d974df931 <unknown>
+#3 0x560d974dfa21 <unknown>
+#4 0x560d97524234 <unknown>
+#5 0x560d9750289d <unknown>
+#6 0x560d975215c3 <unknown>
+#7 0x560d97502613 <unknown>
+#8 0x560d974d24f7 <unknown>
+#9 0x560d974d2e4e <unknown>
+#10 0x560d9777686b <unknown>
+#11 0x560d9777a911 <unknown>
+#12 0x560d9776235e <unknown>
+#13 0x560d9777b472 <unknown>
+#14 0x560d97746cbf <unknown>
+#15 0x560d977a0098 <unknown>
+#16 0x560d977a0270 <unknown>
+#17 0x560d977af7cc <unknown>
+#18 0x7f6876403ac3 <unknown>
+

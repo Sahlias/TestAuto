@@ -1,0 +1,39 @@
+2024-07-10T08:56:01.600845 - Erreur de connexion: HTTPConnectionPool(host='selenium', port=4444): Max retries exceeded with url: /wd/hub/status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fd97b1dab80>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2024-07-10T08:56:01.626705 - En attente de Selenium Grid...
+2024-07-10T08:56:02.692078 - Erreur de connexion: HTTPConnectionPool(host='selenium', port=4444): Max retries exceeded with url: /wd/hub/status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fd97b17a640>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2024-07-10T08:56:02.705819 - En attente de Selenium Grid...
+2024-07-10T08:56:03.724383 - Erreur de connexion: HTTPConnectionPool(host='selenium', port=4444): Max retries exceeded with url: /wd/hub/status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fd97b1ccfd0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2024-07-10T08:56:03.739745 - En attente de Selenium Grid...
+2024-07-10T08:56:04.779486 - Selenium Grid est prêt.
+2024-07-10T08:56:41.866135 - Connexion au Selenium Grid réussie.
+2024-07-10T08:56:43.840358 - Félicitations ! L'accès à l'URL a été réussi.
+2024-07-10T08:56:47.457014 - Les cookies ont bien été acceptés
+2024-07-10T08:56:47.508222 - Début de la procédure de connexion
+2024-07-10T08:56:47.546848 - Cliquer sur l'icône de connexion
+2024-07-10T08:56:47.596400 - Tentative de clic sur l'élément: //*[name()='svg' and @data-testid='ExpandMoreIcon']
+2024-07-10T08:56:50.350209 - Clic réussi sur l'élément: //*[name()='svg' and @data-testid='ExpandMoreIcon']
+2024-07-10T08:56:55.375024 - Cliquer sur le bouton 'Se connecter'
+2024-07-10T08:56:55.413959 - Tentative de clic sur l'élément: //*[@id='main-header-menu']/a[2]/div/span
+2024-07-10T08:56:55.966719 - Clic réussi sur l'élément: //*[@id='main-header-menu']/a[2]/div/span
+2024-07-10T08:57:00.980785 - Saisir l'adresse email
+2024-07-10T08:57:01.004423 - Tentative d'envoi de touches à l'élément: field-userEmail-1
+2024-07-10T08:57:01.674307 - Envoi de touches réussi à l'élément: field-userEmail-1
+2024-07-10T08:57:01.699064 - Tentative d'envoi de touches à l'élément: field-userEmail-1
+2024-07-10T08:57:02.126334 - Envoi de touches réussi à l'élément: field-userEmail-1
+2024-07-10T08:57:04.152705 - Cliquer sur le bouton 'Continuer'
+2024-07-10T08:57:04.171211 - Saisir le mot de passe
+2024-07-10T08:57:04.195761 - Tentative d'envoi de touches à l'élément: _password
+2024-07-10T08:57:04.612447 - Envoi de touches réussi à l'élément: _password
+2024-07-10T08:57:04.631335 - Tentative d'envoi de touches à l'élément: _password
+2024-07-10T08:57:04.920167 - Envoi de touches réussi à l'élément: _password
+2024-07-10T08:57:04.935427 - Connexion réussie
+2024-07-10T08:57:04.952084 - Cliquer sur l'icône de compte
+2024-07-10T08:57:04.967833 - Tentative de clic sur l'élément: div[data-testid='avatar-root']
+2024-07-10T08:57:10.087324 - Clic réussi sur l'élément: div[data-testid='avatar-root']
+2024-07-10T08:57:10.098132 - Etape reussie
+2024-07-10T08:57:12.112032 - Cliquer sur le bouton de déconnexion
+2024-07-10T08:57:12.121149 - Tentative de clic sur l'élément: div[data-testid='avatar-root']
+2024-07-10T08:57:12.315913 - Clic réussi sur l'élément: div[data-testid='avatar-root']
+2024-07-10T08:57:12.326395 - Déconnexion réussie
+2024-07-10T08:57:14.337948 - Fermeture du WebDriver.
+2024-07-10T08:57:14.346112 - Fermeture du WebDriver.

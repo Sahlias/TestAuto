@@ -1,0 +1,35 @@
+2024-07-10T05:02:55.739817 - Erreur de connexion: HTTPConnectionPool(host='selenium', port=4444): Max retries exceeded with url: /wd/hub/status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f93f10bdbb0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2024-07-10T05:02:55.760953 - En attente de Selenium Grid...
+2024-07-10T05:02:56.784063 - Erreur de connexion: HTTPConnectionPool(host='selenium', port=4444): Max retries exceeded with url: /wd/hub/status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f93f105b640>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2024-07-10T05:02:56.796509 - En attente de Selenium Grid...
+2024-07-10T05:02:57.812123 - Erreur de connexion: HTTPConnectionPool(host='selenium', port=4444): Max retries exceeded with url: /wd/hub/status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f93f1065070>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2024-07-10T05:02:57.836493 - En attente de Selenium Grid...
+2024-07-10T05:02:58.863165 - Erreur de connexion: HTTPConnectionPool(host='selenium', port=4444): Max retries exceeded with url: /wd/hub/status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f93f10adfa0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2024-07-10T05:02:58.899765 - En attente de Selenium Grid...
+2024-07-10T05:03:00.165876 - Selenium Grid est prêt.
+2024-07-10T05:03:01.433029 - Connexion au Selenium Grid réussie.
+2024-07-10T05:03:02.678931 - Félicitations ! L'accès à l'URL a été réussi.
+2024-07-10T05:03:05.615315 - Les cookies ont bien été acceptés
+2024-07-10T05:03:05.632740 - Cliquer sur l'icône de connexion
+2024-07-10T05:03:15.830442 - Erreur lors de la connexion: Message: 
+Stacktrace:
+#0 0x5602ff45869a <unknown>
+#1 0x5602ff13b0dc <unknown>
+#2 0x5602ff187931 <unknown>
+#3 0x5602ff187a21 <unknown>
+#4 0x5602ff1cc234 <unknown>
+#5 0x5602ff1aa89d <unknown>
+#6 0x5602ff1c95c3 <unknown>
+#7 0x5602ff1aa613 <unknown>
+#8 0x5602ff17a4f7 <unknown>
+#9 0x5602ff17ae4e <unknown>
+#10 0x5602ff41e86b <unknown>
+#11 0x5602ff422911 <unknown>
+#12 0x5602ff40a35e <unknown>
+#13 0x5602ff423472 <unknown>
+#14 0x5602ff3eecbf <unknown>
+#15 0x5602ff448098 <unknown>
+#16 0x5602ff448270 <unknown>
+#17 0x5602ff4577cc <unknown>
+#18 0x7fd1bf7b5ac3 <unknown>
+

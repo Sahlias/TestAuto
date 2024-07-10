@@ -1,0 +1,71 @@
+2024-07-10T13:28:48.279962 - Erreur lors du clique sur le bouton de recherche : Message: 
+Stacktrace:
+#0 0x55d3ee40469a <unknown>
+#1 0x55d3ee0e70dc <unknown>
+#2 0x55d3ee133931 <unknown>
+#3 0x55d3ee133a21 <unknown>
+#4 0x55d3ee178234 <unknown>
+#5 0x55d3ee15689d <unknown>
+#6 0x55d3ee1755c3 <unknown>
+#7 0x55d3ee156613 <unknown>
+#8 0x55d3ee1264f7 <unknown>
+#9 0x55d3ee126e4e <unknown>
+#10 0x55d3ee3ca86b <unknown>
+#11 0x55d3ee3ce911 <unknown>
+#12 0x55d3ee3b635e <unknown>
+#13 0x55d3ee3cf472 <unknown>
+#14 0x55d3ee39acbf <unknown>
+#15 0x55d3ee3f4098 <unknown>
+#16 0x55d3ee3f4270 <unknown>
+#17 0x55d3ee4037cc <unknown>
+#18 0x7f78f0969ac3 <unknown>
+
+2024-07-10T13:28:54.540830 - Erreur la recherche a échoué : Message: element click intercepted: Element <input id="algolia-search-input" class="dom-services-2-dom-services56" role="searchbox" type="search" autocomplete="off" title="Rechercher" placeholder="Rechercher (cours, parcours, mots-clés...)" aria-label="Rechercher (cours, parcours, mots-clés...)" autocapitalize="off" autocorrect="off" spellcheck="false" data-isexpanded="false" tabindex="-1" value="" style="width: 0px;"> is not clickable at point (655, 27). Other element would receive the click: <path d="M15.5 14h-.79l-.28-.27C15.41 12.59 16 11.11 16 9.5 16 5.91 13.09 3 9.5 3S3 5.91 3 9.5 5.91 16 9.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19zm-6 0C7.01 14 5 11.99 5 9.5S7.01 5 9.5 5 14 7.01 14 9.5 11.99 14 9.5 14"></path>
+  (Session info: chrome-headless-shell=126.0.6478.114)
+Stacktrace:
+#0 0x55d3ee40469a <unknown>
+#1 0x55d3ee0e70dc <unknown>
+#2 0x55d3ee13a6c6 <unknown>
+#3 0x55d3ee138516 <unknown>
+#4 0x55d3ee135ef7 <unknown>
+#5 0x55d3ee134d2c <unknown>
+#6 0x55d3ee12840f <unknown>
+#7 0x55d3ee156872 <unknown>
+#8 0x55d3ee127d89 <unknown>
+#9 0x55d3ee156a3e <unknown>
+#10 0x55d3ee1755c3 <unknown>
+#11 0x55d3ee156613 <unknown>
+#12 0x55d3ee1264f7 <unknown>
+#13 0x55d3ee126e4e <unknown>
+#14 0x55d3ee3ca86b <unknown>
+#15 0x55d3ee3ce911 <unknown>
+#16 0x55d3ee3b635e <unknown>
+#17 0x55d3ee3cf472 <unknown>
+#18 0x55d3ee39acbf <unknown>
+#19 0x55d3ee3f4098 <unknown>
+#20 0x55d3ee3f4270 <unknown>
+#21 0x55d3ee4037cc <unknown>
+#22 0x7f78f0969ac3 <unknown>
+
+2024-07-10T13:29:04.829974 - Erreur lors de la selectionnion du 3 ème élément de la liste de recherche : Message: 
+Stacktrace:
+#0 0x55d3ee40469a <unknown>
+#1 0x55d3ee0e70dc <unknown>
+#2 0x55d3ee133931 <unknown>
+#3 0x55d3ee133a21 <unknown>
+#4 0x55d3ee178234 <unknown>
+#5 0x55d3ee15689d <unknown>
+#6 0x55d3ee1755c3 <unknown>
+#7 0x55d3ee156613 <unknown>
+#8 0x55d3ee1264f7 <unknown>
+#9 0x55d3ee126e4e <unknown>
+#10 0x55d3ee3ca86b <unknown>
+#11 0x55d3ee3ce911 <unknown>
+#12 0x55d3ee3b635e <unknown>
+#13 0x55d3ee3cf472 <unknown>
+#14 0x55d3ee39acbf <unknown>
+#15 0x55d3ee3f4098 <unknown>
+#16 0x55d3ee3f4270 <unknown>
+#17 0x55d3ee4037cc <unknown>
+#18 0x7f78f0969ac3 <unknown>
+

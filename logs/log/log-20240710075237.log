@@ -1,0 +1,85 @@
+2024-07-10T07:52:37.544092 - Erreur de connexion: HTTPConnectionPool(host='selenium', port=4444): Max retries exceeded with url: /wd/hub/status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7ff683888b20>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2024-07-10T07:52:37.562176 - En attente de Selenium Grid...
+2024-07-10T07:52:38.579778 - Erreur de connexion: HTTPConnectionPool(host='selenium', port=4444): Max retries exceeded with url: /wd/hub/status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7ff6838265e0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2024-07-10T07:52:38.599431 - En attente de Selenium Grid...
+2024-07-10T07:52:39.617754 - Erreur de connexion: HTTPConnectionPool(host='selenium', port=4444): Max retries exceeded with url: /wd/hub/status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7ff683877fd0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2024-07-10T07:52:39.631598 - En attente de Selenium Grid...
+2024-07-10T07:52:40.797583 - Selenium Grid est prêt.
+2024-07-10T07:52:41.452763 - Connexion au Selenium Grid réussie.
+2024-07-10T07:52:42.644833 - Félicitations ! L'accès à l'URL a été réussi.
+2024-07-10T07:52:45.339589 - Les cookies ont bien été acceptés
+2024-07-10T07:52:45.360156 - Début de la procédure de connexion
+2024-07-10T07:52:45.381999 - Cliquer sur l'icône de connexion
+2024-07-10T07:52:45.401059 - Tentative de clic sur l'élément: //*[name()='svg' and @data-testid='ExpandMoreIcon']
+2024-07-10T07:52:46.234594 - Clic réussi sur l'élément: //*[name()='svg' and @data-testid='ExpandMoreIcon']
+2024-07-10T07:52:51.250063 - Cliquer sur le bouton 'Se connecter'
+2024-07-10T07:52:51.266061 - Tentative de clic sur l'élément: //*[@id='main-header-menu']/a[2]/div/span
+2024-07-10T07:52:51.550782 - Clic réussi sur l'élément: //*[@id='main-header-menu']/a[2]/div/span
+2024-07-10T07:52:56.568040 - Saisir l'adresse email
+2024-07-10T07:52:56.582300 - Tentative d'envoi de touches à l'élément: field-userEmail-1
+2024-07-10T07:52:56.816680 - Envoi de touches réussi à l'élément: field-userEmail-1
+2024-07-10T07:52:56.824167 - Tentative d'envoi de touches à l'élément: field-userEmail-1
+2024-07-10T07:52:56.951333 - Envoi de touches réussi à l'élément: field-userEmail-1
+2024-07-10T07:52:58.972076 - Cliquer sur le bouton 'Continuer'
+2024-07-10T07:52:58.991916 - Saisir le mot de passe
+2024-07-10T07:52:59.006618 - Tentative d'envoi de touches à l'élément: _password
+2024-07-10T07:52:59.388744 - Envoi de touches réussi à l'élément: _password
+2024-07-10T07:52:59.407283 - Tentative d'envoi de touches à l'élément: _password
+2024-07-10T07:52:59.636898 - Envoi de touches réussi à l'élément: _password
+2024-07-10T07:52:59.654405 - Connexion réussie
+2024-07-10T07:52:59.671528 - Cliquer sur l'icône de compte
+2024-07-10T07:52:59.696123 - Tentative de clic sur l'élément: .sc-gicCDI .hrRwEh .MuiSvgIcon-root .MuiSvgIcon-fontSizeMedium .dom-services-2-dom-services34
+2024-07-10T07:52:59.958243 - Erreur lors du clic sur l'élément: .sc-gicCDI .hrRwEh .MuiSvgIcon-root .MuiSvgIcon-fontSizeMedium .dom-services-2-dom-services34, Erreur: Message: invalid selector
+from javascript error: {"status":32,"value":"An invalid or illegal selector was specified"}
+  (Session info: chrome-headless-shell=126.0.6478.114); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalid-selector-exception
+Stacktrace:
+#0 0x55eb106c969a <unknown>
+#1 0x55eb103ac0dc <unknown>
+#2 0x55eb103b17e9 <unknown>
+#3 0x55eb103b3595 <unknown>
+#4 0x55eb103b361c <unknown>
+#5 0x55eb103f84ee <unknown>
+#6 0x55eb103f8a21 <unknown>
+#7 0x55eb1043d234 <unknown>
+#8 0x55eb1041b89d <unknown>
+#9 0x55eb1043a5c3 <unknown>
+#10 0x55eb1041b613 <unknown>
+#11 0x55eb103eb4f7 <unknown>
+#12 0x55eb103ebe4e <unknown>
+#13 0x55eb1068f86b <unknown>
+#14 0x55eb10693911 <unknown>
+#15 0x55eb1067b35e <unknown>
+#16 0x55eb10694472 <unknown>
+#17 0x55eb1065fcbf <unknown>
+#18 0x55eb106b9098 <unknown>
+#19 0x55eb106b9270 <unknown>
+#20 0x55eb106c87cc <unknown>
+#21 0x7fbe22439ac3 <unknown>
+
+2024-07-10T07:52:59.983824 - Erreur lors de la déconnexion: Message: invalid selector
+from javascript error: {"status":32,"value":"An invalid or illegal selector was specified"}
+  (Session info: chrome-headless-shell=126.0.6478.114); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalid-selector-exception
+Stacktrace:
+#0 0x55eb106c969a <unknown>
+#1 0x55eb103ac0dc <unknown>
+#2 0x55eb103b17e9 <unknown>
+#3 0x55eb103b3595 <unknown>
+#4 0x55eb103b361c <unknown>
+#5 0x55eb103f84ee <unknown>
+#6 0x55eb103f8a21 <unknown>
+#7 0x55eb1043d234 <unknown>
+#8 0x55eb1041b89d <unknown>
+#9 0x55eb1043a5c3 <unknown>
+#10 0x55eb1041b613 <unknown>
+#11 0x55eb103eb4f7 <unknown>
+#12 0x55eb103ebe4e <unknown>
+#13 0x55eb1068f86b <unknown>
+#14 0x55eb10693911 <unknown>
+#15 0x55eb1067b35e <unknown>
+#16 0x55eb10694472 <unknown>
+#17 0x55eb1065fcbf <unknown>
+#18 0x55eb106b9098 <unknown>
+#19 0x55eb106b9270 <unknown>
+#20 0x55eb106c87cc <unknown>
+#21 0x7fbe22439ac3 <unknown>
+

@@ -1,0 +1,44 @@
+2024-07-10T07:24:05.801585 - Erreur lors du clic sur l'élément: #submit, Erreur: Message: 
+Stacktrace:
+#0 0x55d24ee2f69a <unknown>
+#1 0x55d24eb120dc <unknown>
+#2 0x55d24eb5e931 <unknown>
+#3 0x55d24eb5ea21 <unknown>
+#4 0x55d24eba3234 <unknown>
+#5 0x55d24eb8189d <unknown>
+#6 0x55d24eba05c3 <unknown>
+#7 0x55d24eb81613 <unknown>
+#8 0x55d24eb514f7 <unknown>
+#9 0x55d24eb51e4e <unknown>
+#10 0x55d24edf586b <unknown>
+#11 0x55d24edf9911 <unknown>
+#12 0x55d24ede135e <unknown>
+#13 0x55d24edfa472 <unknown>
+#14 0x55d24edc5cbf <unknown>
+#15 0x55d24ee1f098 <unknown>
+#16 0x55d24ee1f270 <unknown>
+#17 0x55d24ee2e7cc <unknown>
+#18 0x7f0f5f380ac3 <unknown>
+
+2024-07-10T07:24:05.822696 - Erreur lors de la connexion: Message: 
+Stacktrace:
+#0 0x55d24ee2f69a <unknown>
+#1 0x55d24eb120dc <unknown>
+#2 0x55d24eb5e931 <unknown>
+#3 0x55d24eb5ea21 <unknown>
+#4 0x55d24eba3234 <unknown>
+#5 0x55d24eb8189d <unknown>
+#6 0x55d24eba05c3 <unknown>
+#7 0x55d24eb81613 <unknown>
+#8 0x55d24eb514f7 <unknown>
+#9 0x55d24eb51e4e <unknown>
+#10 0x55d24edf586b <unknown>
+#11 0x55d24edf9911 <unknown>
+#12 0x55d24ede135e <unknown>
+#13 0x55d24edfa472 <unknown>
+#14 0x55d24edc5cbf <unknown>
+#15 0x55d24ee1f098 <unknown>
+#16 0x55d24ee1f270 <unknown>
+#17 0x55d24ee2e7cc <unknown>
+#18 0x7f0f5f380ac3 <unknown>
+

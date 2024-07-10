@@ -1,0 +1,44 @@
+2024-07-10T08:15:33.644324 - Erreur lors du clic sur l'élément: span.sc-iqcoie.dzyXUh .MuiTypography-root.MuiTypography-body.dom-services-2-dom-services106, Erreur: Message: 
+Stacktrace:
+#0 0x564916c3a69a <unknown>
+#1 0x56491691d0dc <unknown>
+#2 0x564916969931 <unknown>
+#3 0x564916969a21 <unknown>
+#4 0x5649169ae234 <unknown>
+#5 0x56491698c89d <unknown>
+#6 0x5649169ab5c3 <unknown>
+#7 0x56491698c613 <unknown>
+#8 0x56491695c4f7 <unknown>
+#9 0x56491695ce4e <unknown>
+#10 0x564916c0086b <unknown>
+#11 0x564916c04911 <unknown>
+#12 0x564916bec35e <unknown>
+#13 0x564916c05472 <unknown>
+#14 0x564916bd0cbf <unknown>
+#15 0x564916c2a098 <unknown>
+#16 0x564916c2a270 <unknown>
+#17 0x564916c397cc <unknown>
+#18 0x7fa66657cac3 <unknown>
+
+2024-07-10T08:15:33.690633 - Erreur lors de la déconnexion: Message: 
+Stacktrace:
+#0 0x564916c3a69a <unknown>
+#1 0x56491691d0dc <unknown>
+#2 0x564916969931 <unknown>
+#3 0x564916969a21 <unknown>
+#4 0x5649169ae234 <unknown>
+#5 0x56491698c89d <unknown>
+#6 0x5649169ab5c3 <unknown>
+#7 0x56491698c613 <unknown>
+#8 0x56491695c4f7 <unknown>
+#9 0x56491695ce4e <unknown>
+#10 0x564916c0086b <unknown>
+#11 0x564916c04911 <unknown>
+#12 0x564916bec35e <unknown>
+#13 0x564916c05472 <unknown>
+#14 0x564916bd0cbf <unknown>
+#15 0x564916c2a098 <unknown>
+#16 0x564916c2a270 <unknown>
+#17 0x564916c397cc <unknown>
+#18 0x7fa66657cac3 <unknown>
+

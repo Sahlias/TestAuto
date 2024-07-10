@@ -1,0 +1,44 @@
+2024-07-10T08:17:58.724866 - Erreur lors du clic sur l'élément: div[data-testid='avatar-root'], Erreur: Message: 
+Stacktrace:
+#0 0x55deaa6b069a <unknown>
+#1 0x55deaa3930dc <unknown>
+#2 0x55deaa3df931 <unknown>
+#3 0x55deaa3dfa21 <unknown>
+#4 0x55deaa424234 <unknown>
+#5 0x55deaa40289d <unknown>
+#6 0x55deaa4215c3 <unknown>
+#7 0x55deaa402613 <unknown>
+#8 0x55deaa3d24f7 <unknown>
+#9 0x55deaa3d2e4e <unknown>
+#10 0x55deaa67686b <unknown>
+#11 0x55deaa67a911 <unknown>
+#12 0x55deaa66235e <unknown>
+#13 0x55deaa67b472 <unknown>
+#14 0x55deaa646cbf <unknown>
+#15 0x55deaa6a0098 <unknown>
+#16 0x55deaa6a0270 <unknown>
+#17 0x55deaa6af7cc <unknown>
+#18 0x7fd1c13daac3 <unknown>
+
+2024-07-10T08:17:58.742414 - Erreur lors de la déconnexion: Message: 
+Stacktrace:
+#0 0x55deaa6b069a <unknown>
+#1 0x55deaa3930dc <unknown>
+#2 0x55deaa3df931 <unknown>
+#3 0x55deaa3dfa21 <unknown>
+#4 0x55deaa424234 <unknown>
+#5 0x55deaa40289d <unknown>
+#6 0x55deaa4215c3 <unknown>
+#7 0x55deaa402613 <unknown>
+#8 0x55deaa3d24f7 <unknown>
+#9 0x55deaa3d2e4e <unknown>
+#10 0x55deaa67686b <unknown>
+#11 0x55deaa67a911 <unknown>
+#12 0x55deaa66235e <unknown>
+#13 0x55deaa67b472 <unknown>
+#14 0x55deaa646cbf <unknown>
+#15 0x55deaa6a0098 <unknown>
+#16 0x55deaa6a0270 <unknown>
+#17 0x55deaa6af7cc <unknown>
+#18 0x7fd1c13daac3 <unknown>
+

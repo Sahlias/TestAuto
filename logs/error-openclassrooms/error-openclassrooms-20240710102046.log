@@ -1,0 +1,66 @@
+2024-07-10T10:22:25.742762 - Erreur lors du clique sur le bouton de recherche : Message: 
+Stacktrace:
+#0 0x56204fe6969a <unknown>
+#1 0x56204fb4c0dc <unknown>
+#2 0x56204fb98931 <unknown>
+#3 0x56204fb98a21 <unknown>
+#4 0x56204fbdd234 <unknown>
+#5 0x56204fbbb89d <unknown>
+#6 0x56204fbda5c3 <unknown>
+#7 0x56204fbbb613 <unknown>
+#8 0x56204fb8b4f7 <unknown>
+#9 0x56204fb8be4e <unknown>
+#10 0x56204fe2f86b <unknown>
+#11 0x56204fe33911 <unknown>
+#12 0x56204fe1b35e <unknown>
+#13 0x56204fe34472 <unknown>
+#14 0x56204fdffcbf <unknown>
+#15 0x56204fe59098 <unknown>
+#16 0x56204fe59270 <unknown>
+#17 0x56204fe687cc <unknown>
+#18 0x7fee98577ac3 <unknown>
+
+2024-07-10T10:22:41.001950 - Erreur la recherche a échoué : Message: 
+Stacktrace:
+#0 0x56204fe6969a <unknown>
+#1 0x56204fb4c0dc <unknown>
+#2 0x56204fb98931 <unknown>
+#3 0x56204fb98a21 <unknown>
+#4 0x56204fbdd234 <unknown>
+#5 0x56204fbbb89d <unknown>
+#6 0x56204fbda5c3 <unknown>
+#7 0x56204fbbb613 <unknown>
+#8 0x56204fb8b4f7 <unknown>
+#9 0x56204fb8be4e <unknown>
+#10 0x56204fe2f86b <unknown>
+#11 0x56204fe33911 <unknown>
+#12 0x56204fe1b35e <unknown>
+#13 0x56204fe34472 <unknown>
+#14 0x56204fdffcbf <unknown>
+#15 0x56204fe59098 <unknown>
+#16 0x56204fe59270 <unknown>
+#17 0x56204fe687cc <unknown>
+#18 0x7fee98577ac3 <unknown>
+
+2024-07-10T10:22:53.889668 - Erreur lors de la selectionnion du 3 ème élément de la liste de recherche : Message: 
+Stacktrace:
+#0 0x56204fe6969a <unknown>
+#1 0x56204fb4c0dc <unknown>
+#2 0x56204fb98931 <unknown>
+#3 0x56204fb98a21 <unknown>
+#4 0x56204fbdd234 <unknown>
+#5 0x56204fbbb89d <unknown>
+#6 0x56204fbda5c3 <unknown>
+#7 0x56204fbbb613 <unknown>
+#8 0x56204fb8b4f7 <unknown>
+#9 0x56204fb8be4e <unknown>
+#10 0x56204fe2f86b <unknown>
+#11 0x56204fe33911 <unknown>
+#12 0x56204fe1b35e <unknown>
+#13 0x56204fe34472 <unknown>
+#14 0x56204fdffcbf <unknown>
+#15 0x56204fe59098 <unknown>
+#16 0x56204fe59270 <unknown>
+#17 0x56204fe687cc <unknown>
+#18 0x7fee98577ac3 <unknown>
+

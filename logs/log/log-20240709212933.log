@@ -1,0 +1,11 @@
+2024-07-09T21:29:33.649032 - Erreur de connexion: HTTPConnectionPool(host='selenium', port=4444): Max retries exceeded with url: /wd/hub/status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f8ed0391eb0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2024-07-09T21:29:33.663939 - En attente de Selenium Grid...
+2024-07-09T21:29:34.685911 - Erreur de connexion: HTTPConnectionPool(host='selenium', port=4444): Max retries exceeded with url: /wd/hub/status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f8ed0391c40>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2024-07-09T21:29:34.695017 - En attente de Selenium Grid...
+2024-07-09T21:29:35.711600 - Erreur de connexion: HTTPConnectionPool(host='selenium', port=4444): Max retries exceeded with url: /wd/hub/status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f8ed03af9a0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2024-07-09T21:29:35.732539 - En attente de Selenium Grid...
+2024-07-09T21:29:36.888671 - Selenium Grid est prêt.
+2024-07-09T21:29:37.346565 - Connexion au Selenium Grid réussie.
+2024-07-09T21:29:38.137355 - Félicitations ! L'accès à l'URL a été réussi.
+2024-07-09T21:29:40.165105 - Fermeture du WebDriver.
+2024-07-09T21:29:40.175580 - Fermeture du WebDriver.
